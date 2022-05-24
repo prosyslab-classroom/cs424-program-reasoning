@@ -1,4 +1,4 @@
-# cs492-program-reasoning
+# CS492: Program Reasoning
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
