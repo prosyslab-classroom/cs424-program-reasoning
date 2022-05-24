@@ -1,12 +1,12 @@
-# CS492: Program Reasoning
+# CS492: Program Reasoning (프로그램 논증)
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
 - TAs (mailing list: cs492.ta@prosys.kr)
   - TBA
-- Time: Tue/Thr 09:00 - 10:15
+- Time: Tue/Thu 09:00 - 10:15
 - Office hour: Tue 10:15 - 11:00 (by appointment)
-- Location: 
+- Location: E3 2111
 
 ## Course Description
 The main theme of this course is __"the relationship between specification and program"__ for safe and reliable software.
