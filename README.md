@@ -18,9 +18,8 @@ Students will learn theories and practices of program verification and synthesis
 This course will be highly interactive and involve a significant amount of academic communication including reading, writing, and presentations.
 
 ## Grading
-- Assignments: 20%
-- Midterm project: 30%
-- Final project: 40%
+- Assignments: 45%
+- Final Exam: 45%
 - Participation: 10%
 
 ## Textbook
@@ -43,18 +42,6 @@ The late homework policy is as follows:
 - 80% credit for one day late
 - 50% credit for two days late
 - NO credit given after two days late
-
-## Presentation
-- Each student is required to give 4 presentations (midterm project, final project proposal, final project result, and paper presentation).
-- Each student is required to give at least 1 question for each student presentation.
-
-## Projects
-- Midterm project: each student will design and implement an advanced program synthesizer.
-  - Presentation: students will present their own idea to advance a naive program synthesizer.
-- Final project: each student will define and solve your own problem related to program synthesis or program verification.
-  - Proposal writing: students will submit their project proposal that will be reviewed by other students, TAs, and instructors.
-  - Proposal presentation: students will present their plans for the project and rebut criticism from reviewers.
-  - Final presentation: students will present their results.
 
 ## Academic Integrity Violation
 Students who violate academic integrity will get F.
