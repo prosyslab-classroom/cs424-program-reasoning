@@ -75,4 +75,4 @@ A large part of the slides is based on the lecture notes of similar courses by
 - [Nadia Polikarpova](https://github.com/nadia-polikarpova/cse291-program-synthesis)
 - [Woosuk Lee](http://psl.hanyang.ac.kr/courses/cse9116_2022s/)
 - [Hakjoo Oh](http://prl.korea.ac.kr/~pronto/home/courses/aaa528/2018/)
-- [Isil Dillig](https://www.cs.utexas.edu/~isil/cs389L/).
+- [Isil Dillig](https://www.cs.utexas.edu/~isil/cs389L/)
