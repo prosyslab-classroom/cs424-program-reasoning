@@ -16,7 +16,6 @@ This course will cover two topics under the theme:
 2. **program synthesis**: how to automatically _generate_ a program that satisfies the specification.
 
 Students will learn theories and practices of program verification and synthesis through lectures, assignments, and term projects.
-This course will be highly interactive and involve a significant amount of academic communication including reading, writing, and presentations.
 
 ## Grading
 - Assignments: 45%
