@@ -65,7 +65,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |11|[Search Space Pruning](slides/lecture4.pdf)||HW4: Enumerative Synthesizer|
 |12|[Search Space Prioritization](slides/lecture5.pdf)|[CACM'18](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)||
 |13|[Representation-based Search](slides/lecture6.pdf)|||
-|14|[Program Synthesis and Verification](slides/lecture7.pdf)|||
+|14|[Program Synthesis and Verification](slides/lecture7.pdf)||HW5: CEGIS|
 |15||||
 |16|No class|||
 
