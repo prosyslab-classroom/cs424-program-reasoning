@@ -69,10 +69,12 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |15||||
 |16|No class|||
 
+## Advanced Course
+- [CS524: Program Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
 
 ## Acknowlegement
-A large part of the slides is based on the lecture notes of similar courses by
-- [Nadia Polikarpova](https://github.com/nadia-polikarpova/cse291-program-synthesis)
-- [Woosuk Lee](http://psl.hanyang.ac.kr/courses/cse9116_2022s/)
-- [Hakjoo Oh](http://prl.korea.ac.kr/~pronto/home/courses/aaa528/2018/)
-- [Isil Dillig](https://www.cs.utexas.edu/~isil/cs389L/)
+A large part of the slides is based on the lecture notes of similar courses:
+- [CS389: Automated Logical Reasoning](https://www.cs.utexas.edu/~isil/cs389L/), Univ. of Texas at Austin
+- [AAA528: Computational Logic](http://prl.korea.ac.kr/~pronto/home/courses/aaa528/2018/), Korea Univ.
+- [CSE 291: Program Synthesis](https://github.com/nadia-polikarpova/cse291-program-synthesis), UCSD
+- [CSE9116: Program Synthesis](http://psl.hanyang.ac.kr/courses/cse9116_2022s/), Hanyang Univ.
