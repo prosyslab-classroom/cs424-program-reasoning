@@ -58,7 +58,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |4|[First-order Logic](slides/lecture10.pdf)|COC Ch2|
 |5|[First-order Theory](slides/lecture11.pdf)|COC Ch3|HW2: Automated Theorem Proving|
 |6|[Hoare Logic](slides/lecture12.pdf)|COC Ch5, [CACM'21](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)||
-|7|[Automatic Verification using Contrained Horn Clauses](slides/lecture13.pdf)||HW3: Program Verifier|
+|7|[Automatic Verification using Contrained Horn Clauses](slides/lecture13.pdf)||HW3: SmaLLVM Verifier|
 |8|No class|||
 |9|[Introduction to Program Synthesis](slides/lecture2.pdf)|PS Ch1-2, IPS Lec1, [Wired](https://www.wired.com/story/ai-write-code-like-humans-bugs/)||
 |10|[Inductive Synthesis and Enumerative Search](slides/lecture3.pdf)|PS Ch4.1, IPS Lec2-4||
