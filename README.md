@@ -18,8 +18,8 @@ This course will cover two topics under the theme:
 Students will learn theories and practices of program verification and synthesis through lectures, assignments, and term projects.
 
 ## Grading
-- Assignments: 45%
-- Final Exam: 45%
+- Homework: 50%
+- Final Exam: 40%
 - Participation: 10%
 
 ## Textbook
