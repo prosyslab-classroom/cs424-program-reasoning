@@ -51,9 +51,8 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |Week|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" />HW0: Hello-world, OCaml Programming|
-|1|[Introduction](slides/lecture1.pdf)||||
-| |[Introduction to Program Verification](slides/lecture8.pdf)|<img src="icons/youtube.png" width="16" /> Undecidability [<img src="icons/kor.png" width="16" />](https://youtu.be/oippSXvxUlw) [<img src="icons/eng.png" width="16" />](https://www.youtube.com/watch?v=HeQX2HjkcNo&t=2)||
-|2|Operational Semantics||<img src="icons/github-classroom.png" width="16" />HW1: SmaLLVM Interpreter|
+|1|[Introduction](slides/lecture1.pdf)|<img src="icons/youtube.png" width="16" /> Undecidability [<img src="icons/kor.png" width="16" />](https://youtu.be/oippSXvxUlw) [<img src="icons/eng.png" width="16" />](https://www.youtube.com/watch?v=HeQX2HjkcNo&t=2)|||
+|2|[Operational Semantics](slides/lecture2.pdf)||<img src="icons/github-classroom.png" width="16" />HW1: SmaLLVM Interpreter|
 |3|[Propositional Logic](slides/lecture9.pdf)|COC Ch1|
 |4|[First-order Logic](slides/lecture10.pdf)|COC Ch2|
 |5|[First-order Theory](slides/lecture11.pdf)|COC Ch3|<img src="icons/github-classroom.png" width="16" />HW2: Automated Theorem Proving|
