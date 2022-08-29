@@ -6,9 +6,9 @@
   - Seungwan Kwon (seungwan.kwon@kaist.ac.kr)
   - Sujin Jang (sujin0529@kaist.ac.kr)
 - Time: Tue/Thu 09:00 - 10:15
-- Office hour:
-  - Instructor: Tue 10:15 - 11:00 (by appointment)
-  - TAs: TBA
+- Office hour (by appointment):
+  - Instructor: Tue 10:15 - 11:00
+  - TAs: Fri 15:00 - 16:00
 - Location: E3 2111
 
 ## Course Description
