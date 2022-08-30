@@ -3,8 +3,8 @@
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
 - TAs (mailing list: cs492.ta@prosys.kr)
-  - Seungwan Kwon (seungwan.kwon@kaist.ac.kr)
-  - Sujin Jang (sujin0529@kaist.ac.kr)
+  - [Seungwan Kwon](https://hhro.github.io) (seungwan.kwon@kaist.ac.kr)
+  - [Sujin Jang](https://sujin0529.github.io) (sujin0529@kaist.ac.kr)
 - Time: Tue/Thu 09:00 - 10:15
 - Office hour (by appointment):
   - Instructor: Tue 10:15 - 11:00
