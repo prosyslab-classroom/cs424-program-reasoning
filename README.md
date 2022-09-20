@@ -70,8 +70,12 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |15|Wrap Up|||
 |16|No class|||
 
+## Hall of Fame
+Have fun reading the distinguished essays from previous semesters [here](hof.md).
+
 ## Advanced Course
 - [CS524: Program Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
+
 
 ## Acknowlegement
 A large part of the slides is based on the lecture notes of similar courses:
