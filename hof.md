@@ -5,4 +5,4 @@
 - [Janggun Lee (이장건)](essay/2022-janggun.pdf)
 - [Jaehyun Lee (이재현)](essay/2022-jaehyun.pdf)
 - [Jeong Seunghyeon (정승현)](essay/2022-seunghyeon.pdf)
-
+- [Park Suhyeon (박수현)](essay/2022-suhyeon.pdf)
