@@ -6,3 +6,4 @@
 - [Jaehyun Lee (이재현)](essay/2022-jaehyun.pdf)
 - [Jeong Seunghyeon (정승현)](essay/2022-seunghyeon.pdf)
 - [Park Suhyeon (박수현)](essay/2022-suhyeon.pdf)
+- [Subeen Park (박수빈)](essay/2022-subeen.pdf)
