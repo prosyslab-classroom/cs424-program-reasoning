@@ -10,3 +10,4 @@
 - [Park Jungwung (박정웅)](essay/2022-jungwung.pdf)
 - [Woojin Lee(이우진)](essay/2022-woojin.pdf)
 - [Haejoon Park (박해준)](essay/2022-haejoon.pdf)
+- [Hyerin Park (박혜린)](essay/2022-hyerin.pdf)
