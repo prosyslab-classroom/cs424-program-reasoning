@@ -8,3 +8,4 @@
 - [Park Suhyeon (박수현)](essay/2022-suhyeon.pdf)
 - [Subeen Park (박수빈)](essay/2022-subeen.pdf)
 - [Park Jungwung (박정웅)](essay/2022-jungwung.pdf)
+- [Woojin Lee(이우진)](essay/2022-woojin.pdf)
