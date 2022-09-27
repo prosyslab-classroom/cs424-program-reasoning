@@ -59,7 +59,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |4|[Propositional Logic](slides/lecture4.pdf)|COC Ch1|
 |5|[First-order Logic](slides/lecture5.pdf)|COC Ch2|
 |6|[First-order Theory](slides/lecture6.pdf)|COC Ch3|<img src="icons/github-classroom.png" width="16" />HW2: Automated Theorem Proving|
-|7|[Hoare Logic](slides/lecture12.pdf)|COC Ch5, [CACM'21](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)||
+|7|[Hoare Logic](slides/lecture7.pdf)|COC Ch5, [CACM'21](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)||
 |8|[Automatic Verification using Contrained Horn Clauses](slides/lecture13.pdf)||<img src="icons/github-classroom.png" width="16" />HW3: SmaLLVM Verifier|
 |9|[Overview of Program Synthesis](slides/lecture2.pdf)|PS Ch1-2, IPS Lec1, [Wired](https://www.wired.com/story/ai-write-code-like-humans-bugs/), [IEEE Spectrum](https://spectrum.ieee.org/ai-code-generation-language-models)||
 |10|[Inductive Synthesis and Enumerative Search](slides/lecture3.pdf)|PS Ch4.1, IPS Lec2-4|<img src="icons/github-classroom.png" width="16" />HW4: LIA Synthesizer|
