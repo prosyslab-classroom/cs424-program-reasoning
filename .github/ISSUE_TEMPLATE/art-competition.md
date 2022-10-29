@@ -1,7 +1,7 @@
 ---
 name: Art competition
 about: Art competition
-title: "[Art competition]"
+title: "[Art competition] YOUR CONCEPT"
 labels: ''
 assignees: ''
 ---
