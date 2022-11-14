@@ -1,4 +1,5 @@
-### 2022 Fall
+## 2022 Fall
+#### Essay 1: Program Verification
 - [Jaeho Kim (김재호)](essay/2022-jaeho.pdf)
 - [Kim Hongjin (김홍진)](essay/2022-hongjin.pdf)
 - [Sunho Park (박선호)](essay/2022-sunho.pdf)
@@ -11,3 +12,8 @@
 - [Woojin Lee(이우진)](essay/2022-woojin.pdf)
 - [Haejoon Park (박해준)](essay/2022-haejoon.pdf)
 - [Hyerin Park (박혜린)](essay/2022-hyerin.pdf)
+
+#### LIA Synthesizer Competition Top Scorer :trophy:
+1. Janggun Lee (이장건)
+2. Youngil Yoon (윤영일)
+3. Suhyeon Park (박수현)
