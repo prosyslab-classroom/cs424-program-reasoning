@@ -14,6 +14,7 @@
 - [Hyerin Park (박혜린)](essay/2022-hyerin.pdf)
 
 #### Essay 2: Program Synthesis
+- [Sunho Park (박선호)](essay/2022-synthesis-sunho.pdf)
 
 #### LIA Synthesizer Competition Top Scorer :trophy:
 1. Janggun Lee (이장건)
