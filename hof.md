@@ -1,3 +1,4 @@
+# CS492 Hall of Fame
 ## 2022 Fall
 #### Essay 1: Program Verification
 - [Jaeho Kim (김재호)](essay/2022-jaeho.pdf)
@@ -21,3 +22,5 @@
 1. Janggun Lee (이장건)
 2. Youngil Yoon (윤영일)
 3. Suhyeon Park (박수현)
+
+See the [ceremony photos](https://photos.google.com/share/AF1QipOhJngjU1Vz4jQmemrNHfL1fm5YeH9R6rZBYVh08YrlxgU7pON9X4OsBauZdacBwQ?key=bUtlYVpPUVJxWER6aUVMRmJ5aUV0RDV3ZkxBNkx3). 
