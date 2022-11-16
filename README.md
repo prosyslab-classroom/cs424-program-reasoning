@@ -66,9 +66,8 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |11|[Search Space Pruning](slides/lecture11.pdf)||<img src="icons/github-classroom.png" width="16" />HW5: SLIA Synthesizer|
 |12|[Search Space Prioritization](slides/lecture12.pdf)|[CACM'18](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)||
 |13|[Representation-based Search](slides/lecture13.pdf)|||
-|14|[Program Synthesis and Verification](slides/lecture14.pdf)||<img src="icons/github-classroom.png" width="16" />HW6: CEGIS|
-|15|Wrap Up|||
-|16|No class|||
+|14|[Constraint-based Search](slides/lecture14.pdf)|||
+|15|[Functional Synthesis](slides/lecture15.pdf)||<img src="icons/github-classroom.png" width="16" />HW6: CEGIS|
 
 ## Hall of Fame
 Have fun reading the distinguished essays from previous semesters [here](hof.md).
