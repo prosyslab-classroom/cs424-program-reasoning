@@ -18,6 +18,8 @@
 - [Sunho Park (박선호)](essay/2022-synthesis-sunho.pdf)
 - [Heewon Lee (이희원)](essay/2022-synthesis-heewon.pdf)
 - [Park Suhyeon (박수현)](essay/2022-synthesis-suhyeon.pdf)
+- [Jaehyun Lee (이재현)](essay/2022-synthesis-jaehyun.pdf)
+
 #### LIA Synthesizer Competition Top Scorer :trophy:
 1. Janggun Lee (이장건)
 2. Youngil Yoon (윤영일)
