@@ -15,6 +15,7 @@
 - [Hyerin Park (박혜린)](essay/2022-hyerin.pdf)
 
 #### Essay 2: Program Synthesis
+- [Kim Hongjin (김홍진)](essay/2022-synthesis-hongjin.pdf)
 - [Sunho Park (박선호)](essay/2022-synthesis-sunho.pdf)
 - [Heewon Lee (이희원)](essay/2022-synthesis-heewon.pdf)
 - [Park Suhyeon (박수현)](essay/2022-synthesis-suhyeon.pdf)
