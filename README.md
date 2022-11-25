@@ -68,7 +68,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |13|[Representation-based Search](slides/lecture13.pdf)||<img src="icons/github-classroom.png" width="16" />HW5: SLIA Synthesizer|
 |14|[Constraint-based Search](slides/lecture14.pdf)|||
 |15|[Functional Synthesis](slides/lecture15.pdf)||<img src="icons/github-classroom.png" width="16" />HW6: CEGIS|
-|16|[Program Synthesis as AI](slides/lecture16.pdf)|[Trustworthy AI](essay/trustworthy-ai.pdf)||
+|16|[Program Synthesis as AI](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)||
 |-|Final Exam|||
 ## Hall of Fame
 Have fun reading the distinguished essays from previous semesters [here](hof.md).
