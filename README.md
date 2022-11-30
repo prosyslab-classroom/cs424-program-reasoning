@@ -71,7 +71,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |16|[Program Synthesis as AI](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)||
 |-|Final Exam|||
 ## Hall of Fame
-Have fun reading the distinguished essays from previous semesters [here](hof.md).
+Have fun with student artifacts from previous semesters [here](hof.md) (distinguished essays, drawings, etc).
 
 ## Advanced Course
 - [CS524: Program Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
