@@ -28,7 +28,15 @@
 2. Youngil Yoon (윤영일)
 3. Suhyeon Park (박수현)
 
+#### SLIA Synthesizer Competition Top Scorer :trophy:
+1. 김재호, 김현구, 윤영일
+2. 신민서
+3. 박선호
+
 See the [ceremony photos](https://photos.google.com/share/AF1QipOhJngjU1Vz4jQmemrNHfL1fm5YeH9R6rZBYVh08YrlxgU7pON9X4OsBauZdacBwQ?key=bUtlYVpPUVJxWER6aUVMRmJ5aUV0RDV3ZkxBNkx3). 
+
+#### Out-of-course Activities
+- 이진서: [Dude](https://github.com/marketplace/actions/duplication-detector) ([motivation](https://github.com/prosyslab-classroom/cs492-program-reasoning/issues/52))
 
 #### Art Competition
 |[![Bottom-up Enumeration](https://user-images.githubusercontent.com/79095967/204824717-39074983-75e5-4337-8b37-665d6366d89b.png)](https://github.com/prosyslab-classroom/cs492-program-reasoning/issues/127)Bottom-up Enumeration <br>by [Gimongjin](https://api.github.com/users/Gimongjin)|[![Operational Semantics](https://user-images.githubusercontent.com/99390261/204812908-9d2ac2a2-3dab-4fb2-b763-c0d815d84dc0.png)](https://github.com/prosyslab-classroom/cs492-program-reasoning/issues/126)Operational Semantics :2nd_place_medal:<br>by [PSuHyeon](https://api.github.com/users/PSuHyeon)|[![Correctness](https://user-images.githubusercontent.com/79095967/204810371-9cc90487-e335-470e-add9-bde83b99097e.png)](https://github.com/prosyslab-classroom/cs492-program-reasoning/issues/125)Correctness <br>by [Gimongjin](https://api.github.com/users/Gimongjin)|[![Incompleteness](https://user-images.githubusercontent.com/90555950/204805403-ba9cb6f5-201b-42e4-ad51-57b5c0c9c966.png)](https://github.com/prosyslab-classroom/cs492-program-reasoning/issues/124)Incompleteness :3rd_place_medal:<br>by [Calmadeas](https://api.github.com/users/Calmadeas)|[![First-order logic](https://user-images.githubusercontent.com/79095967/204799337-73f48e4a-eee3-4df4-ba39-5acfa1439e76.png)](https://github.com/prosyslab-classroom/cs492-program-reasoning/issues/123)First-order logic <br>by [Gimongjin](https://api.github.com/users/Gimongjin)|
