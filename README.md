@@ -1,7 +1,7 @@
 # CS492: Program Reasoning (프로그램 논증)
 
 ## Logistics
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
+- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@kaist.ac.kr)
 - TAs (mailing list: cs492.ta@prosys.kr)
   - TBA
 - Time: Mon/Wed 09:00 - 10:15
