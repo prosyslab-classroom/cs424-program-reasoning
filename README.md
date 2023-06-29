@@ -72,9 +72,9 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 ## Hall of Fame
 Have fun with student artifacts from previous semesters [here](hof.md) (distinguished essays, drawings, etc).
 
-## Advanced Course
+## Related & Advanced Course
+- [CS402: Introduction to Logic for Computer Science](https://github.com/hongseok-yang/logic23), KAIST
 - [CS524: Program Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
-
 
 ## Acknowlegement
 A large part of the slides is based on the lecture notes of similar courses:
