@@ -1,11 +1,12 @@
 # CS492: Program Reasoning (프로그램 논증)
 
 ## Logistics
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@kaist.ac.kr)
+- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
 - TAs (mailing list: cs492.ta@prosys.kr)
-  - TBA
+  - [Tae Eun Kim](https://goodtaeeun.github.io) (김태은)
+  - [Changgong Lee](https://zackcglee.github.io) (이창공)
 - Time: Mon/Wed 09:00 - 10:15
-- Office hour (by appointment):
+- Office hours (by appointment):
   - Instructor: Mon 10:15 - 11:00
   - TAs: TBA
 - Location: N1 111
@@ -31,11 +32,11 @@ Students will learn theories and practices of program verification and synthesis
 
 ## Homework
 This course includes programming assignments through which students will learn how to design
-and implement program synthesizer and program verifier.
+and implement program synthesizers and program verifiers.
 Students will use a few tools which are described [here](TOOL.md).
 
 All submissions will be managed using Github.
-For each assignment, a unique invitation URL for Github Classroom will be posted in the [issue board](../../issues).
+For each assignment, a unique invitation URL for GitHub Classroom will be posted in the [issue board](../../issues).
 Once you accept the invitation, a private repository for your assignment will be created.
 You can push as many commits as you want before the deadline. We will grade the final commit of your `master` branch.
 
