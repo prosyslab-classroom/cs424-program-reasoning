@@ -4,7 +4,6 @@
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
 - TAs (mailing list: cs492.ta@prosys.kr)
   - [Tae Eun Kim](https://goodtaeeun.github.io) (김태은)
-  - [Changgong Lee](https://zackcglee.github.io) (이창공)
 - Time: Mon/Wed 09:00 - 10:15
 - Office hours (by appointment):
   - Instructor: Mon 10:15 - 11:00
