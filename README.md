@@ -7,7 +7,7 @@
 - Time: Mon/Wed 09:00 - 10:15
 - Office hours (by appointment):
   - Instructor: Mon 10:15 - 11:00
-  - TAs: TBA
+  - TAs: Mon 10:15 - 11:00
 - Location: N1 111
 
 ## Course Description
