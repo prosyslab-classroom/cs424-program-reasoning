@@ -47,7 +47,7 @@ The late homework policy is as follows:
 - NO credit given after two days late
 
 ## Academic Integrity Violation
-Students who violate academic integrity will get F.
+Students who violate academic integrity will get an F.
 See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
 
 ## Schedule
@@ -87,4 +87,5 @@ A large part of the slides is based on the lecture notes of similar courses:
 
 ## References
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
+- [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)
 - [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
