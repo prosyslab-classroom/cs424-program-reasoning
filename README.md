@@ -23,6 +23,8 @@ Students will learn theories and practices of program verification and synthesis
 - Final Exam: 40%
 - Participation: 10%
 
+This course does not allow for P/NR grading.
+
 ## Textbook
 - Lecture slides will be provided
 - [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) (PS)
