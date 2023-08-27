@@ -11,10 +11,10 @@
 - Location: N1 111
 
 ## Course Description
-The main theme of this course is __"the relationship between specification and program"__ for safe and reliable software.
+The main theme of this course is __"the relationship between specification and implementation"__ for safe and reliable software.
 This course will cover two topics under the theme:
-1. **program verification**: how to automatically _prove_ whether a given program satisfies the specification,
-2. **program synthesis**: how to automatically _generate_ a program that satisfies the specification.
+1. **program verification**: how to automatically _prove_ whether a given implementation satisfies the specification,
+2. **program synthesis**: how to automatically _generate_ an implementation that satisfies the specification.
 
 Students will learn theories and practices of program verification and synthesis through lectures, and assignments.
 
