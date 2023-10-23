@@ -9,7 +9,9 @@ assignees: ''
 
 ## Name
 
+## Tool You Used
+
 ## Short Description
-For me, [*the chosen concept*] means [*the sentence you used to generate the picture using DALL-E*]".
+For me, [*the chosen concept*] means [*the prompt sentence you used to generate the picture using DALL-E*]".
 
 ## Long Description (up to 3 sentences)
