@@ -3,6 +3,11 @@
 #### Essay 1: Program Verification
 - [Changgong Lee (이창공)](essay/2023-changgong.pdf)
 
+#### LIA Synthesizer Competition Top Scorer :trophy:
+1. Hosung Lee (이호성)
+2. Minsol Park (박민솔)
+3. Seohyun Lee (이서현)
+
 ## 2022 Fall
 #### Essay 1: Program Verification
 - [Jaeho Kim (김재호)](essay/2022-jaeho.pdf)
