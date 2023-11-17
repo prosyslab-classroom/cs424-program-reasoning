@@ -11,12 +11,12 @@ Students will use the [OCaml](https://ocaml.org) programming language for the so
   - [Functional Programming in OCaml (simple version)](slides/ocaml-tutorial.pdf)
   - [Functional Programming in OCaml (detailed version from Cornell CS3110)](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
   - [OCaml Tutorial Videos](https://www.youtube.com/watch?v=xTsHMja8joA&list=PLPGcR5TG6arH6hk04YnAsMbYmQvBqwFdw)
+  - [Hardcore OCaml](https://github.com/prosyslab-classroom/hardcore-ocaml)
   #### OCaml Book
   - [Real World OCaml](https://dev.realworldocaml.org/index.html)
   #### Why OCaml?
   - [OCaml for the Masses](https://queue.acm.org/detail.cfm?id=2038036)
   - [Why OCaml](https://blog.janestreet.com/why-ocaml/)
-  - [Hardcore OCaml](https://github.com/prosyslab-classroom/hardcore-ocaml)
   #### Why Functional Programming?
   - [Why Functional Programming Matters](https://dl.acm.org/doi/10.1093/comjnl/32.2.98) [<img src="icons/youtube.png" width="16" />](https://youtu.be/1qBHf8DrWR8)
   - [Functional Programming in 40 minutes](https://youtu.be/0if71HOyVjY)
