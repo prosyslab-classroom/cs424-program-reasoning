@@ -16,6 +16,7 @@ Students will use the [OCaml](https://ocaml.org) programming language for the so
   #### Why OCaml?
   - [OCaml for the Masses](https://queue.acm.org/detail.cfm?id=2038036)
   - [Why OCaml](https://blog.janestreet.com/why-ocaml/)
+  - [Hardcore OCaml](https://github.com/prosyslab-classroom/hardcore-ocaml)
   #### Why Functional Programming?
   - [Why Functional Programming Matters](https://dl.acm.org/doi/10.1093/comjnl/32.2.98) [<img src="icons/youtube.png" width="16" />](https://youtu.be/1qBHf8DrWR8)
   - [Functional Programming in 40 minutes](https://youtu.be/0if71HOyVjY)
