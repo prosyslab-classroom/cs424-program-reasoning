@@ -8,6 +8,8 @@
 2. Minsol Park (박민솔)
 3. Seohyun Lee (이서현)
 
+See the [ceremony photos](https://photos.app.goo.gl/7oCdf7qtW3w2YYyT7)
+
 ## 2022 Fall
 #### Essay 1: Program Verification
 - [Jaeho Kim (김재호)](essay/2022-jaeho.pdf)
