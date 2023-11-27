@@ -5,6 +5,7 @@
 
 #### Essay 2: Program Synthesis
 - [Mincheol Kwon (권민철)](essay/2023-mincheol.pdf)
+- [Ingyu Baeg (백인규)](essay/2023-ingyu.pdf)
 
 #### LIA Synthesizer Competition Top Scorer :trophy:
 1. Hosung Lee (이호성)
