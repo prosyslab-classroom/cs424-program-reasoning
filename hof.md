@@ -3,6 +3,9 @@
 #### Essay 1: Program Verification
 - [Changgong Lee (이창공)](essay/2023-changgong.pdf)
 
+#### Essay 2: Program Synthesis
+- [Mincheol Kwon (권민철)](essay/2023-mincheol.pdf)
+
 #### LIA Synthesizer Competition Top Scorer :trophy:
 1. Hosung Lee (이호성)
 2. Minsol Park (박민솔)
