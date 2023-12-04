@@ -13,7 +13,7 @@
 2. Minsol Park (박민솔)
 3. Seohyun Lee (이서현)
 
-#### LIA Synthesizer Competition Top Scorer :trophy:
+#### SLIA Synthesizer Competition Top Scorer :trophy:
 1. Hosung Lee (이호성), Ingyu Baeg (백인규)
 3. Junghyun Kim (김정현)
 
@@ -59,7 +59,7 @@ See the [ceremony photos](https://photos.app.goo.gl/7oCdf7qtW3w2YYyT7)
 2. 신민서
 3. 박선호
 
-See the [ceremony photos](https://photos.google.com/share/AF1QipOhJngjU1Vz4jQmemrNHfL1fm5YeH9R6rZBYVh08YrlxgU7pON9X4OsBauZdacBwQ?key=bUtlYVpPUVJxWER6aUVMRmJ5aUV0RDV3ZkxBNkx3). 
+See the [ceremony photos](https://photos.google.com/share/AF1QipOhJngjU1Vz4jQmemrNHfL1fm5YeH9R6rZBYVh08YrlxgU7pON9X4OsBauZdacBwQ?key=bUtlYVpPUVJxWER6aUVMRmJ5aUV0RDV3ZkxBNkx3).
 
 #### Out-of-course Activities
 - 이진서: [Dude](https://github.com/marketplace/actions/duplication-detector) ([motivation](https://github.com/prosyslab-classroom/cs492-program-reasoning/issues/52))
