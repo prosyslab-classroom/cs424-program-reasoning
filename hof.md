@@ -7,6 +7,7 @@
 - [Mincheol Kwon (권민철)](essay/2023-mincheol.pdf)
 - [Ingyu Baeg (백인규)](essay/2023-ingyu.pdf)
 - [Changgong Lee (이창공)](essay/2023-synthesis-changgong.pdf)
+- [Seohyun Lee (이서현)](essay/2023-seohyun.pdf)
 
 #### LIA Synthesizer Competition Top Scorer :trophy:
 1. Hosung Lee (이호성)
