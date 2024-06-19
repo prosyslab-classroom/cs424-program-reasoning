@@ -1,4 +1,4 @@
-# CS492: Program Reasoning (프로그램 논증)
+# CS424: Program Reasoning (프로그램 논증)
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
@@ -8,7 +8,7 @@
 - Office hours (by appointment):
   - Instructor: Mon 10:15 - 11:00
   - TAs: Mon 10:15 - 11:00
-- Location: N1 111
+- Location: N1 102
 
 ## Course Description
 The main theme of this course is __"the relationship between specification and implementation"__ for safe and reliable software.
@@ -23,7 +23,9 @@ Students will learn theories and practices of program verification and synthesis
 - Final Exam: 40%
 - Participation: 10%
 
-This course does not allow for P/NR grading.
+## Note
+- This course DO NOT allow for P/NR grading.
+- Freshmen can enroll in this course only if they have prior approval by the instructor. Send an email to the instructor for the approval.
 
 ## Textbook
 - Lecture slides will be provided
@@ -37,7 +39,7 @@ and implement program synthesizers and program verifiers.
 Students will use a few tools which are described [here](TOOL.md).
 
 All submissions will be managed using Github.
-For each assignment, a unique invitation URL for GitHub Classroom will be posted in the [issue board](../../issues).
+For each assignment, a unique invitation URL for GitHub Classroom will be posted in the [discussion board](../../discussion).
 Once you accept the invitation, a private repository for your assignment will be created.
 You can push as many commits as you want before the deadline. We will grade the final commit of your `master` branch.
 
