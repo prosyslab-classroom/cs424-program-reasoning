@@ -2,7 +2,7 @@
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
-- TAs (mailing list: cs492.ta@prosys.kaist.ac.kr)
+- TAs (mailing list: cs424.ta@prosys.kaist.ac.kr)
   - [Sujin Jang](https://sujin0529.github.io) (장수진)
   - Changgong Lee (이창공)
 - Time: Mon/Wed 09:00 - 10:15
