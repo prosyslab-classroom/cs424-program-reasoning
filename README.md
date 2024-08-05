@@ -95,5 +95,6 @@ A large part of the slides is based on the lecture notes of similar courses:
 - [Coding Made AI—Now, How Will AI Unmake Coding?](https://spectrum.ieee.org/ai-code-generation-language-models), IEEE Spectrum 2022
 - [Neurosymbolic AI](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext), CACM 2022
 - [Formal Software Verification Measures Up](https://dl.acm.org/doi/10.1145/3464933), CACM 2021
+- [Autocorrect Errors in Excel](https://www.nature.com/articles/d41586-021-02211-4), Nature 2021
 - [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)
 - [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
