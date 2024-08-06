@@ -84,7 +84,7 @@ Have fun with student artifacts from previous semesters [here](hof.md) (distingu
 ## Acknowledgement
 A large part of the slides is based on the lecture notes of similar courses:
 - [CS389: Automated Logical Reasoning](https://www.cs.utexas.edu/~isil/cs389L/), Univ. of Texas at Austin
-- [AAA528: Computational Logic](https://github.com/kupl/AAA528?tab=readme-ov-file#aaa528-2021s), Korea Univ.
+- AAA528: Computational Logic, Korea Univ.
 - [CSE291: Program Synthesis](https://github.com/nadia-polikarpova/cse291-program-synthesis), UCSD
 - [CSE9116: Program Synthesis](http://psl.hanyang.ac.kr/courses/cse9116_2022s/), Hanyang Univ.
 
