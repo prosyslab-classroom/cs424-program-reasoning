@@ -81,10 +81,10 @@ Have fun with student artifacts from previous semesters [here](hof.md) (distingu
 - [CS402: Introduction to Logic for Computer Science](https://github.com/hongseok-yang/logic23), KAIST
 - [CS524: Program Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
 
-## Acknowlegement
+## Acknowledgement
 A large part of the slides is based on the lecture notes of similar courses:
 - [CS389: Automated Logical Reasoning](https://www.cs.utexas.edu/~isil/cs389L/), Univ. of Texas at Austin
-- [AAA528: Computational Logic](http://prl.korea.ac.kr/~pronto/home/courses/aaa528/2018/), Korea Univ.
+- [AAA528: Computational Logic](https://github.com/kupl/AAA528?tab=readme-ov-file#aaa528-2021s), Korea Univ.
 - [CSE291: Program Synthesis](https://github.com/nadia-polikarpova/cse291-program-synthesis), UCSD
 - [CSE9116: Program Synthesis](http://psl.hanyang.ac.kr/courses/cse9116_2022s/), Hanyang Univ.
 
