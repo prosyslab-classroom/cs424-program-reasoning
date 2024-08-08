@@ -31,15 +31,16 @@ Students will learn theories and practices of program verification and synthesis
 - 숙제 Homework: 50%
 - 기말고사 Final Exam: 40%
 - 참여 Participation: 10%
-  - 적극적인 참여로 본인이 배운 바를 스스로 다채롭게 내뿜는 학생들을 위한 보상입니다. This is for students who actively participate and express what they have learned in a diverse way.
+  - 적극적인 참여로 본인이 배운 바를 스스로 다채롭게 내뿜는 학생들을 위한 보상입니다.
+    - This is for students who actively participate and express what they have learned in a diverse way.
   - [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 정량화할 수 있을만큼 가치가 낮지 않기 때문입니다.
-    Attendance is not quantitatively assessed because it is too valuable to be reduced to a mere number.
+    - Attendance is not quantitatively assessed because it is too valuable to be reduced to a mere number.
 
 ## P/NR 관련 공지 Note for P/NR
 이 강의는 P/NR 성적을 허용하지 않습니다. 
 신입생은 반드시 교수에게 이메일을 통해 사전 승인을 받은 후 수강신청하길 바랍니다.
 
-This course DO NOT allow for P/NR grading.
+This course DOES NOT allow for P/NR grading.
 Freshmen can enroll in this course only if they have prior approval from the instructor.
 Send an email to the instructor for approval.
 
@@ -65,7 +66,7 @@ Send an email to the instructor for approval.
 - 사흘 이상 늦을 시 0%
 
 This course includes programming assignments through which students will learn how to design
-and implement program verifiers and program synthesizers .
+and implement program verifiers and program synthesizers.
 Students will use a few tools described [here](TOOL.md).
 
 All submissions will be managed using GitHub and Gradescope.
