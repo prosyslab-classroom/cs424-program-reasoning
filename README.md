@@ -1,17 +1,25 @@
-# CS424: Program Reasoning (프로그램 논증)
+# CS424: 프로그램 논증 (Program Reasoning)
 
-## Logistics
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
-- TAs (mailing list: cs424.ta@prosys.kaist.ac.kr)
-  - [Sujin Jang](https://sujin0529.github.io) (장수진)
-  - Changgong Lee (이창공)
-- Time: Mon/Wed 09:00 - 10:15
-- Office hours (by appointment):
-  - Instructor: Mon 10:15 - 11:00
-  - TAs: Mon 10:15 - 11:00
-- Location: N1 102
+## 계획 Logistics
+- 교수 Instructor: [허기홍 Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
+- 조교 TAs (mailing list: cs424.ta@prosys.kaist.ac.kr)
+  - [장수진 Sujin Jang](https://sujin0529.github.io)
+  - 이창공 Changgong Lee
+- 강의 시간 (Time): 월/수 Mon/Wed 09:00 - 10:15
+- 면담 시간 (Office hours) (사전 약속 필요 by appointment):
+  - 교수 Instructor: Mon 10:15 - 11:00
+  - 조교 TAs: Mon 10:15 - 11:00
+- 강의실 Location: N1 102
 
-## Course Description
+## 강의 소개 Course Description
+
+본 강의의 핵심 주제는 안전하고 믿을만한 소프트웨어를 만들기 위한 "명세와 구현 사이의 관계"이다.
+크게 아래와 같은 두 가지 세부 주제를 다룬다:
+1. **프로그램 검증 (program verification)**: 주어진 구현이 해당 명세를 만족하는지 어떻게 _자동으로 증명할_ 것인가?
+2. **프로그램 합성 (program synthesis)**: 주어진 명세를 만족하는 구현을 어떻게 _자동으로 만들어낼_ 것인가?
+
+학생들은 강의와 숙제를 통해 프로그램 검증과 합성의 이론과 실제를 배울 것이다.
+
 The main theme of this course is __"the relationship between specification and implementation"__ for safe and reliable software.
 This course will cover two topics under the theme:
 1. **program verification**: how to automatically _prove_ whether a given implementation satisfies the specification,
@@ -19,41 +27,65 @@ This course will cover two topics under the theme:
 
 Students will learn theories and practices of program verification and synthesis through lectures, and assignments.
 
-## Grading
-- Homework: 50%
-- Final Exam: 40%
-- Participation: 10%
+## 성적 Grading
+- 숙제 Homework: 50%
+- 기말고사 Final Exam: 40%
+- 참여 Participation: 10%
+  - 적극적인 참여로 본인이 배운 바를 스스로 다채롭게 내뿜는 학생들을 위한 보상입니다. This is for students who actively participate and express what they have learned in a diverse way.
+  - [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 정량화할 수 있을만큼 가치가 낮지 않기 때문입니다.
+    Attendance is not quantitatively assessed because it is too valuable to be reduced to a mere number.
 
-## Note
-- This course DO NOT allow for P/NR grading.
-- Freshmen can enroll in this course only if they have prior approval by the instructor. Send an email to the instructor for the approval.
+## P/NR 관련 공지 Note for P/NR
+이 강의는 P/NR 성적을 허용하지 않습니다. 
+신입생은 반드시 교수에게 이메일을 통해 사전 승인을 받은 후 수강신청하길 바랍니다.
 
-## Textbook
-- Lecture slides will be provided
+This course DO NOT allow for P/NR grading.
+Freshmen can enroll in this course only if they have prior approval from the instructor.
+Send an email to the instructor for approval.
+
+## 교재 Textbook
+- 강의자료가 제공됩니다. Lecture slides will be provided.
 - [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) (PS)
 - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (IPS)
 - [The Calculus of Computation](https://www.amazon.com/Calculus-Computation-Procedures-Applications-Verification/dp/3540741127) (COC)
 
-## Homework
-This course includes programming assignments through which students will learn how to design
-and implement program synthesizers and program verifiers.
-Students will use a few tools which are described [here](TOOL.md).
+## 숙제 Homework
+이 강의에서 학생들은 다양한 프로그래밍 숙제를 통해 프로그램 검증기와 합성기를 설계하고 구현하는 법을 배웁니다.
+특히 [여기](TOOL.md)에 있는 몇 가지 도구를 사용할 예정입니다.
 
-All submissions will be managed using Github.
-For each assignment, a unique invitation URL for GitHub Classroom will be posted in the [discussion board](../../discussion).
+모든 숙제 제출은 Github와 Gradescope 를 통해서 이루어집니다.
+매 숙제마다 제출을 위한 GitHub Classroom 초대 URL이 [게시판](../../discussion)에 공지됩니다.
+초대를 수락하면, 여러분의 숙제를 위한 비공개 개인 저장소가 만들어 질 것입니다.
+여러분은 제출 기한 이전에 원하는 만큼 해당 저장소에 제출할 수 있고,
+이 저장소를 Gradescope에 제출하여 채점결과를 확인할 수 있습니다.
+
+기한을 넘겨서 제출할 시 아래와 같은 규정에 따라 채점합니다:
+- 하루 늦을 시 점수의 80%
+- 이틀 늦을 시 점수의 50%
+- 사흘 이상 늦을 시 0%
+
+This course includes programming assignments through which students will learn how to design
+and implement program verifiers and program synthesizers .
+Students will use a few tools described [here](TOOL.md).
+
+All submissions will be managed using GitHub and Gradescope.
+For each assignment, a unique invitation URL for GitHub Classroom will be posted in the [Discussion board](../../discussion).
 Once you accept the invitation, a private repository for your assignment will be created.
-You can push as many commits as you want before the deadline. We will grade the final commit of your `master` branch.
+You can push as many commits as you want before the deadline.
+You can submit this repository to Gradescope to check your grading results.
 
 The late homework policy is as follows:
 - 80% credit for one day late
 - 50% credit for two days late
 - NO credit given after two days late
 
-## Academic Integrity Violation
-Students who violate academic integrity will get an F.
-See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
+## 학문 윤리 Academic Integrity
+학문 윤리를 어긴 수강생은 F를 받습니다. 자세한 사항은 [KAIST 전산학부 명예규정](https://cs.kaist.ac.kr/content?menu=309)을 참고하십시오.
 
-## Schedule
+Students who violate academic integrity will get an F.
+See [the KAIST CS honor code](https://cs.kaist.ac.kr/content?menu=309).
+
+## 강의 계획 Schedule
 |Week|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||<img src="icons/github-classroom.png" width="16" />HW0: Hello-world, OCaml Programming|
@@ -74,21 +106,26 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |15|[Functional Synthesis](slides/lecture15.pdf)||<img src="icons/github-classroom.png" width="16" />HW6: CEGIS|
 |16|[Program Synthesis as AI](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)||
 |-|Final Exam|||
-## Hall of Fame
+
+## 명예의 전당 Hall of Fame
+지난 학기 수강생들이 [남긴](https://prosys.kaist.ac.kr/what-is-left/) 멋진 작품을 [여기서](hof.md) 감상해 보세요 (에세이, 그림 등).
+
 Have fun with student artifacts from previous semesters [here](hof.md) (distinguished essays, drawings, etc).
 
-## Related & Advanced Course
+## 관련 강의 Related & Advanced Course
 - [CS402: Introduction to Logic for Computer Science](https://github.com/hongseok-yang/logic23), KAIST
 - [CS524: Program Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
 
-## Acknowledgement
+## 감사 Acknowledgement
+이 강의의 자료는 아래 강의의 자료를 참고하여 작성하였습니다.
+
 A large part of the slides is based on the lecture notes of similar courses:
 - [CS389: Automated Logical Reasoning](https://www.cs.utexas.edu/~isil/cs389L/), Univ. of Texas at Austin
 - AAA528: Computational Logic, Korea Univ.
 - [CSE291: Program Synthesis](https://github.com/nadia-polikarpova/cse291-program-synthesis), UCSD
 - [CSE9116: Program Synthesis](http://psl.hanyang.ac.kr/courses/cse9116_2022s/), Hanyang Univ.
 
-## References
+## 참고 References
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
 - [Search-based Program Synthesis](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext), CACM 2018
 - [AI Can Write Code Like Humans—Bugs and All](https://www.wired.com/story/ai-write-code-like-humans-bugs/). Wired 2021
