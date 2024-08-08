@@ -13,12 +13,12 @@
 
 ## 강의 소개 Course Description
 
-본 강의의 핵심 주제는 안전하고 믿을만한 소프트웨어를 만들기 위한 "명세와 구현 사이의 관계"이다.
-크게 아래와 같은 두 가지 세부 주제를 다룬다:
+본 강의의 핵심 주제는 안전하고 믿을만한 소프트웨어를 만들기 위한 "명세와 구현 사이의 관계"입니다.
+크게 아래와 같은 두 가지 세부 주제를 다룹니다:
 1. **프로그램 검증 (program verification)**: 주어진 구현이 해당 명세를 만족하는지 어떻게 _자동으로 증명할_ 것인가?
 2. **프로그램 합성 (program synthesis)**: 주어진 명세를 만족하는 구현을 어떻게 _자동으로 만들어낼_ 것인가?
 
-학생들은 강의와 숙제를 통해 프로그램 검증과 합성의 이론과 실제를 배울 것이다.
+학생들은 강의와 숙제를 통해 프로그램 검증과 합성의 이론과 실제를 배울 것입니다.
 
 The main theme of this course is __"the relationship between specification and implementation"__ for safe and reliable software.
 This course will cover two topics under the theme:
@@ -31,10 +31,10 @@ Students will learn theories and practices of program verification and synthesis
 - 숙제 Homework: 50%
 - 기말고사 Final Exam: 40%
 - 참여 Participation: 10%
-  - 적극적인 참여로 본인이 배운 바를 스스로 다채롭게 내뿜는 학생들을 위한 보상입니다.
-    - This is for students who actively participate and express what they have learned in a diverse way.
-  - [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 정량화할 수 있을만큼 가치가 낮지 않기 때문입니다.
-    - Attendance is not quantitatively assessed because it is too valuable to be reduced to a mere number.
+  - 적극적인 참여로 본인이 배운 바를 [스스로 다채롭게 내뿜는](hof.md) 학생들을 위한 보상입니다.
+    - This is for students who actively participate and express what they have learned [in a diverse way](hof.md).
+  - 매 수업시간에 항상 여러분을 만날 수 있기를 기대합니다. [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 정량화할 수 있을만큼 가치가 낮지 않기 때문입니다.
+    - I always look forward to seeing you in every class. [Attendance is not quantitatively assessed](https://prosys.kaist.ac.kr/attendance/) because it is too valuable to be reduced to a mere number.
 
 ## P/NR 관련 공지 Note for P/NR
 이 강의는 P/NR 성적을 허용하지 않습니다. 
