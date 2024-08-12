@@ -114,8 +114,8 @@ See [the KAIST CS honor code](https://cs.kaist.ac.kr/content?menu=309).
 Have fun with student artifacts from previous semesters [here](hof.md) (distinguished essays, drawings, etc).
 
 ## 관련 강의 Related & Advanced Course
-- [CS402: Introduction to Logic for Computer Science](https://github.com/hongseok-yang/logic23), KAIST
-- [CS524: Program Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
+- [CS402: 전산논리학 개론 (Introduction to Logic for Computer Science)](https://github.com/hongseok-yang/logic23), KAIST
+- [CS524: 프로그램 분석 (Program Analysis)](https://github.com/prosyslab-classroom/cs524-program-analysis), KAIST
 
 ## 감사 Acknowledgement
 이 강의의 자료는 아래 강의의 자료를 참고하여 작성하였습니다.
@@ -127,12 +127,21 @@ A large part of the slides is based on the lecture notes of similar courses:
 - [CSE9116: Program Synthesis](http://psl.hanyang.ac.kr/courses/cse9116_2022s/), Hanyang Univ.
 
 ## 참고 References
+#### 기본 Preliminaries
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
+- [괴델, 에셔, 바흐 (Gödel, Escher, Bach)](https://www.aladin.co.kr/m/mproduct.aspx?ItemId=113285054)
+- [불가능에 대하여 (Imagine the Impossible)](https://www.youtube.com/watch?v=nJiw4g2ZM1E)
+
+#### 프로그램 검증 Program Verification
+- [Formal Software Verification Measures Up](https://dl.acm.org/doi/10.1145/3464933), CACM 2021
+- [Infer](https://fbinfer.com)
+- [CodeQL](https://codeql.github.com)
+- [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
+
+#### 프로그램 합성 Program Synthesis
 - [Search-based Program Synthesis](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext), CACM 2018
 - [AI Can Write Code Like Humans—Bugs and All](https://www.wired.com/story/ai-write-code-like-humans-bugs/). Wired 2021
 - [Coding Made AI—Now, How Will AI Unmake Coding?](https://spectrum.ieee.org/ai-code-generation-language-models), IEEE Spectrum 2022
 - [Neurosymbolic AI](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext), CACM 2022
-- [Formal Software Verification Measures Up](https://dl.acm.org/doi/10.1145/3464933), CACM 2021
 - [Autocorrect Errors in Excel](https://www.nature.com/articles/d41586-021-02211-4), Nature 2021
 - [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)
-- [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
