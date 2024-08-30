@@ -55,7 +55,7 @@ Send an email to the instructor for approval.
 특히 [여기](TOOL.md)에 있는 몇 가지 도구를 사용할 예정입니다.
 
 모든 숙제 제출은 Github와 Gradescope 를 통해서 이루어집니다.
-매 숙제마다 제출을 위한 GitHub Classroom 초대 URL이 [게시판](../../discussion)에 공지됩니다.
+매 숙제마다 제출을 위한 GitHub Classroom 초대 URL이 [게시판](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions)에 공지됩니다.
 초대를 수락하면, 여러분의 숙제를 위한 비공개 개인 저장소가 만들어 질 것입니다.
 여러분은 제출 기한 이전에 원하는 만큼 해당 저장소에 제출할 수 있고,
 이 저장소를 Gradescope에 제출하여 채점결과를 확인할 수 있습니다.
