@@ -70,7 +70,7 @@ and implement program verifiers and program synthesizers.
 Students will use a few tools described [here](TOOL.md).
 
 All submissions will be managed using GitHub and Gradescope.
-For each assignment, a unique invitation URL for GitHub Classroom will be posted in the [Discussion board](../../discussion).
+For each assignment, a unique invitation URL for GitHub Classroom will be posted in the [Discussion board](../../discussions).
 Once you accept the invitation, a private repository for your assignment will be created.
 You can push as many commits as you want before the deadline.
 You can submit this repository to Gradescope to check your grading results.
