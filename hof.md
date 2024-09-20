@@ -1,4 +1,8 @@
 # CS492 Hall of Fame
+
+## 2024 Fall
+#### Essay 1: Program Verification
+
 ## 2023 Fall
 #### Essay 1: Program Verification
 - [Changgong Lee (이창공)](essay/2023-changgong.pdf)
