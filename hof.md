@@ -2,6 +2,7 @@
 
 ## 2024 Fall
 #### Essay 1: Program Verification
+- [Sungmin Moon (문성민)](essay/2024-Sungmin.pdf)
 
 ## 2023 Fall
 #### Essay 1: Program Verification
