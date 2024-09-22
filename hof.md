@@ -1,11 +1,11 @@
 # CS492 Hall of Fame
 
 ## 2024 Fall
-#### Essay 1: Program Verification
+#### Essay 1: Undecidability (계산불가능성)
 - [Sungmin Moon (문성민)](essay/2024-Sungmin.pdf)
 
 ## 2023 Fall
-#### Essay 1: Program Verification
+#### Essay 1: Undecidability (계산불가능성)
 - [Changgong Lee (이창공)](essay/2023-changgong.pdf)
 
 #### Essay 2: Program Synthesis
@@ -32,7 +32,7 @@
 See the [ceremony photos](https://photos.app.goo.gl/7oCdf7qtW3w2YYyT7)
 
 ## 2022 Fall
-#### Essay 1: Program Verification
+#### Essay 1: Undecidability (계산불가능성)
 - [Jaeho Kim (김재호)](essay/2022-jaeho.pdf)
 - [Kim Hongjin (김홍진)](essay/2022-hongjin.pdf)
 - [Sunho Park (박선호)](essay/2022-sunho.pdf)
