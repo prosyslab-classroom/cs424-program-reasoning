@@ -134,9 +134,15 @@ A large part of the slides is based on the lecture notes of similar courses:
 
 #### 프로그램 검증 Program Verification
 - [Formal Software Verification Measures Up](https://dl.acm.org/doi/10.1145/3464933), CACM 2021
+- [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
+- [Machine-assisted Proof](https://youtu.be/AayZuuDDKP0?si=H2Pl-Y-K3oysfA8W)
+
+#### 프로그램 분석 Program Analysis
 - [Infer](https://fbinfer.com)
 - [CodeQL](https://codeql.github.com)
-- [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
+- [Lessons from Building Static Analysis Tools at Google](https://dl.acm.org/doi/10.1145/3188720), CACM 2018
+- [Scaling Static Analysis at Facebook](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext), CACM 2019
+- [Detect Bugs Early with the Static Analyzer](https://developer.apple.com/videos/play/wwdc2021/10202/), Apple WWDC 2021
 
 #### 프로그램 합성 Program Synthesis
 - [Search-based Program Synthesis](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext), CACM 2018
