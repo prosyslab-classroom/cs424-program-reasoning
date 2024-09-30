@@ -151,3 +151,6 @@ A large part of the slides is based on the lecture notes of similar courses:
 - [Neurosymbolic AI](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext), CACM 2022
 - [Autocorrect Errors in Excel](https://www.nature.com/articles/d41586-021-02211-4), Nature 2021
 - [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)
+
+#### 그 외 Etc
+- [Recursion World](http://recursion.kaist.ac.kr)
