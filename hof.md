@@ -5,6 +5,7 @@
 - [Sungmin Moon (문성민)](essay/2024-Sungmin.pdf)
 - [Jaewoo Kim (김재우)](essay/2024-jaewoo.pdf)
 - [Dongjae Lee (이동재)](essay/2024-dongjae.pdf)
+- [Bongjun Jang (장봉준)](essay/2024-bongjun.pdf)
 
 ## 2023 Fall
 #### Essay 1: Undecidability (계산불가능성)
