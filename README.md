@@ -1,6 +1,6 @@
 # CS424: 프로그램 논증 (Program Reasoning)
 
-## 계획 Logistics
+## 수업정보 Logistics
 - 교수 Instructor: [허기홍 Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
 - 조교 TAs (mailing list: cs424.ta@prosys.kaist.ac.kr)
   - [장수진 Sujin Jang](https://sujin0529.github.io)
@@ -37,7 +37,7 @@ Students will learn theories and practices of program verification and synthesis
     - I always look forward to seeing you in every class. [Attendance is not quantitatively assessed](https://prosys.kaist.ac.kr/attendance/) because it is too valuable to be reduced to a mere number.
 
 ## P/NR 관련 공지 Note for P/NR
-이 강의는 P/NR 성적을 허용하지 않습니다. 
+이 강의는 P/NR 성적을 허용하지 않습니다.
 신입생은 반드시 교수에게 이메일을 통해 사전 승인을 받은 후 수강신청하길 바랍니다.
 
 This course DOES NOT allow for P/NR grading.
