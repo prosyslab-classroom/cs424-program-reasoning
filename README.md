@@ -54,6 +54,9 @@ Send an email to the instructor for approval.
 이 강의에서 학생들은 다양한 프로그래밍 숙제를 통해 프로그램 검증기와 합성기를 설계하고 구현하는 법을 배웁니다.
 특히 [여기](TOOL.md)에 있는 몇 가지 도구를 사용할 예정입니다.
 
+프로그램 검증기 채점을 위한 프로그램은 [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)를 이용하여 자동으로 생성됩니다.
+BugSynth는 LLM과 프로그램 검증 기술을 활용하여 자연스럽고 믿을만한 채점용 오류 프로그램을 생성하는 도구입니다.
+
 모든 숙제 제출은 Github와 Gradescope 를 통해서 이루어집니다.
 매 숙제마다 제출을 위한 GitHub Classroom 초대 URL이 [게시판](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions)에 공지됩니다.
 초대를 수락하면, 여러분의 숙제를 위한 비공개 개인 저장소가 만들어 질 것입니다.
@@ -68,6 +71,9 @@ Send an email to the instructor for approval.
 This course includes programming assignments through which students will learn how to design
 and implement program verifiers and program synthesizers.
 Students will use a few tools described [here](TOOL.md).
+
+The program for grading program verifiers is automatically generated using [BugSynth](https://prosys.kaist.ac.kr/bugsynth/).
+BugSynth utilizes LLM and program verification techniques to generate natural and reliable buggy programs for grading.
 
 All submissions will be managed using GitHub and Gradescope.
 For each assignment, a unique invitation URL for GitHub Classroom will be posted in the [Discussion board](../../discussions).
@@ -160,4 +166,5 @@ A large part of the slides is based on the lecture notes of similar courses:
 - [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)
 
 #### 그 외 Etc
+- [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
 - [Recursion World](http://recursion.kaist.ac.kr)
