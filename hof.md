@@ -13,10 +13,10 @@
 3. Jaeyoung Hwang (황재영)
 
 #### Prompt Master Award
-- [Bongjun Jang (장봉준)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449)
-- [Seunghwan Yoon (윤승환)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449)
-- [Shinyoung Lee (이신영)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449)
-- [Seonghun Park (박성훈)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449)
+- [Bongjun Jang (장봉준)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449#discussioncomment-11370991)
+- [Seunghwan Yoon (윤승환)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449#discussioncomment-11371327)
+- [Shinyoung Lee (이신영)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449#discussioncomment-11371498)
+- [Seonghun Park (박성훈)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449#discussioncomment-11372415)
 
 See the [ceremony photos](https://photos.app.goo.gl/AaCxaNgaTggRx8b36)
 
