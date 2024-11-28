@@ -1,4 +1,4 @@
-# CS492 Hall of Fame
+# CS424 Hall of Fame
 
 ## 2024 Fall
 #### Essay 1: Undecidability (계산불가능성)
@@ -6,6 +6,19 @@
 - [Jaewoo Kim (김재우)](essay/2024-jaewoo.pdf)
 - [Dongjae Lee (이동재)](essay/2024-dongjae.pdf)
 - [Bongjun Jang (장봉준)](essay/2024-bongjun.pdf)
+
+#### LIA Synthesizer Competition Top Scorer :trophy:
+1. Jihun Kim (김지훈)
+2. Sungchae Kim (김성채)
+3. Jaeyoung Hwang (황재영)
+
+#### Prompt Master Award
+- [Bongjun Jang (장봉준)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449)
+- [Seunghwan Yoon (윤승환)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449)
+- [Shinyoung Lee (이신영)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449)
+- [Seonghun Park (박성훈)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/449)
+
+See the [ceremony photos](https://photos.app.goo.gl/AaCxaNgaTggRx8b36)
 
 ## 2023 Fall
 #### Essay 1: Undecidability (계산불가능성)
