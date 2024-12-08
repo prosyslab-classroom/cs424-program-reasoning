@@ -8,6 +8,7 @@
 - [Bongjun Jang (장봉준)](essay/2024-bongjun.pdf)
 
 #### Essay 2: Program Synthesis
+- [Sungmin Moon (문성민)](essay/2024-synthesis-Sungmin.pdf)
 
 #### LIA Synthesizer Competition Top Scorer :trophy:
 1. Jihun Kim (김지훈)
