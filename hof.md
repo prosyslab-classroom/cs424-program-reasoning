@@ -10,6 +10,7 @@
 #### Essay 2: Program Synthesis
 - [Sungmin Moon (문성민)](essay/2024-synthesis-Sungmin.pdf)
 - [Seonghun Park (박성훈)](essay/2024-seonghun.pdf)
+- [Hyunjoon Cho (조현준)](essay/2024-hyunjoon.pdf)
 
 #### LIA Synthesizer Competition Top Scorer :trophy:
 1. Jihun Kim (김지훈)
