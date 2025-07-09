@@ -3,8 +3,8 @@
 ## 수업정보 Logistics
 - 교수 Instructor: [허기홍 Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
 - 조교 TAs (mailing list: cs424.ta@prosys.kaist.ac.kr)
-  - [장수진 Sujin Jang](https://sujin0529.github.io)
-  - 이창공 Changgong Lee
+  - 이동재 Dongjae Lee
+  - 장재훈 Jaehoon Jang
 - 강의 시간 (Time): 월/수 Mon/Wed 09:00 - 10:15
 - 면담 시간 (Office hours) (사전 약속 필요 by appointment):
   - 교수 Instructor: Mon 10:15 - 11:00
@@ -12,6 +12,7 @@
 - 강의실 Location: N1 102
 
 ## 강의 소개 Course Description
+> 내가 원하는 프로그램을 자동으로 만들 수 있는가? 그리고 그 프로그램이 내가 원하는 것임을 증명할 수 있는가?
 
 본 강의의 핵심 주제는 안전하고 믿을만한 소프트웨어를 만들기 위한 "명세와 구현 사이의 관계"입니다.
 크게 아래와 같은 두 가지 세부 주제를 다룹니다:
@@ -19,6 +20,7 @@
 2. **프로그램 합성 (program synthesis)**: 주어진 명세를 만족하는 구현을 어떻게 _자동으로 만들어낼_ 것인가?
 
 학생들은 강의와 숙제를 통해 프로그램 검증과 합성의 이론과 실제를 배울 것입니다.
+그리고 나아가 프로그래밍언어 이론과 인공지능 기술을 결합하여 안전한 프로그램을 자동으로 생성하는 미래를 그리게 될 것이다.
 
 The main theme of this course is __"the relationship between specification and implementation"__ for safe and reliable software.
 This course will cover two topics under the theme:
