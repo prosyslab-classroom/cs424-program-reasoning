@@ -20,7 +20,7 @@
 2. **프로그램 합성 (program synthesis)**: 주어진 명세를 만족하는 구현을 어떻게 _자동으로 만들어낼_ 것인가?
 
 학생들은 강의와 숙제를 통해 프로그램 검증과 합성의 이론과 실제를 배울 것이다.
-그리고 나아가 프로그래밍언어 이론과 인공지능 기술을 결합하여 안전한 프로그램을 자동으로 생성하는 미래를 그리게 될 것이다.
+그리고 나아가 논리와 직관을 모두 갖춘 진정한 종합 인공지능이 실현되는 미래를 함께 그리게 될 것이다.
 
 > Can my desired program be generated automatically and proven to be correct?
 
@@ -30,7 +30,7 @@ This course will cover two topics under the theme:
 2. **program synthesis**: how to automatically _generate_ an implementation that satisfies the specification.
 
 Students will learn theories and practices of program verification and synthesis through lectures, and assignments.
-Furthermore, it envisions a future where programming language theory and AI are combined to automatically generate safe programs.
+Furthermore, we will envision a future where artificial general intelligence, equipped with both logic and intuition, is realized.
 
 ## 성적 Grading
 - 숙제 Homework: 50%
@@ -166,11 +166,15 @@ A large part of the slides is based on the lecture notes of similar courses:
 - [Search-based Program Synthesis](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext), CACM 2018
 - [AI Can Write Code Like Humans—Bugs and All](https://www.wired.com/story/ai-write-code-like-humans-bugs/). Wired 2021
 - [Coding Made AI—Now, How Will AI Unmake Coding?](https://spectrum.ieee.org/ai-code-generation-language-models), IEEE Spectrum 2022
-- [Neurosymbolic AI](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext), CACM 2022
 - [Autocorrect Errors in Excel](https://www.nature.com/articles/d41586-021-02211-4), Nature 2021
 - [Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions](https://cacm.acm.org/research-highlights/asleep-at-the-keyboard-assessing-the-security-of-github-copilots-code-contributions/), CACM 2025
-- [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)
 
+
+#### 논리와 직관을 모두 갖춘 종합 인공지능 Artificial General Intelligence
+- [Neurosymbolic AI](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext), CACM 2022
+- [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/), KAIST Melting Pot Seminar, 2022
+- [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), [생각에 관한 생각](https://product.kyobobook.co.kr/detail/S000000597589) (번역본)
+  
 #### 그 외 Etc
 - [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
 - [Recursion World](http://recursion.kaist.ac.kr)
