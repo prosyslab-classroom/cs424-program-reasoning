@@ -14,13 +14,15 @@
 ## 강의 소개 Course Description
 > 내가 원하는 프로그램을 자동으로 만들 수 있는가? 그리고 그 프로그램이 내가 원하는 것임을 증명할 수 있는가?
 
-본 강의의 핵심 주제는 안전하고 믿을만한 소프트웨어를 만들기 위한 "명세와 구현 사이의 관계"입니다.
-크게 아래와 같은 두 가지 세부 주제를 다룹니다:
+본 강의의 핵심 주제는 안전하고 믿을만한 소프트웨어를 만들기 위한 "명세와 구현 사이의 관계"이다.
+크게 아래와 같은 두 가지 세부 주제를 다룬다:
 1. **프로그램 검증 (program verification)**: 주어진 구현이 해당 명세를 만족하는지 어떻게 _자동으로 증명할_ 것인가?
 2. **프로그램 합성 (program synthesis)**: 주어진 명세를 만족하는 구현을 어떻게 _자동으로 만들어낼_ 것인가?
 
-학생들은 강의와 숙제를 통해 프로그램 검증과 합성의 이론과 실제를 배울 것입니다.
+학생들은 강의와 숙제를 통해 프로그램 검증과 합성의 이론과 실제를 배울 것이다.
 그리고 나아가 프로그래밍언어 이론과 인공지능 기술을 결합하여 안전한 프로그램을 자동으로 생성하는 미래를 그리게 될 것이다.
+
+> Can my desired program be generated automatically and proven to be correct?
 
 The main theme of this course is __"the relationship between specification and implementation"__ for safe and reliable software.
 This course will cover two topics under the theme:
@@ -28,6 +30,7 @@ This course will cover two topics under the theme:
 2. **program synthesis**: how to automatically _generate_ an implementation that satisfies the specification.
 
 Students will learn theories and practices of program verification and synthesis through lectures, and assignments.
+Furthermore, it envisions a future where programming language theory and AI are combined to automatically generate safe programs.
 
 ## 성적 Grading
 - 숙제 Homework: 50%
