@@ -174,6 +174,7 @@ A large part of the slides is based on the lecture notes of similar courses:
 - [Neurosymbolic AI](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext), CACM 2022
 - [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/), KAIST Melting Pot Seminar, 2022
 - [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), [생각에 관한 생각](https://product.kyobobook.co.kr/detail/S000000597589) (번역본)
+- [Safeguarding Mobile AI Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
   
 #### 그 외 Etc
 - [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
