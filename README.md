@@ -55,6 +55,20 @@ Send an email to the instructor for approval.
 - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (IPS)
 - [The Calculus of Computation](https://www.amazon.com/Calculus-Computation-Procedures-Applications-Verification/dp/3540741127) (COC)
 
+## 강의실 안의 약속
+모두가 몰입하는 강의를 위해 모든 전자기기(노트북, 타블릿, 핸드폰)는 책상위에 올려놓지 않기로 합시다.
+수업 중 전자기기를 사용하는 것이 끼치는 악영향은 이미 널리 알려져 있습니다([참고1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub),[참고2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)].
+본인의 주의를 산만하게 할 뿐만 아니라 주변 사람들이 수업에 집중하는데도 큰 방해가 됩니다.
+모두가 각자 따로 모니터를 보기 보다는 함께 같은 곳을 보며 떠드는 수업이 되길 바랍니다.
+필요한 자료는 이 저장소에 있으니 원한다면 미리 인쇄를 해서 오세요.
+
+For a lecture where everyone can stay fully engaged, let’s agree not to keep any electronic devices (laptops, tablets, phones) on the desk.
+The negative effects of using electronic devices during class are already well-documented ([Ref1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub), [Ref2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)).
+They not only distract you, but also seriously interfere with the ability of those around you to focus.
+
+Instead of everyone looking at separate screens, I hope this will be a class where we look at the same place together and actively talk with one another.
+All necessary materials are available in this repository, so please print them out in advance if you’d like.
+
 ## 숙제 Homework
 이 강의에서 학생들은 다양한 프로그래밍 숙제를 통해 프로그램 검증기와 합성기를 설계하고 구현하는 법을 배웁니다.
 특히 [여기](TOOL.md)에 있는 몇 가지 도구를 사용할 예정입니다.
