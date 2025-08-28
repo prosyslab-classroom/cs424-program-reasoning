@@ -55,7 +55,7 @@ Send an email to the instructor for approval.
 - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (IPS)
 - [The Calculus of Computation](https://www.amazon.com/Calculus-Computation-Procedures-Applications-Verification/dp/3540741127) (COC)
 
-## 강의실 안의 약속
+## 몰입을 위한 약속 Promises for Engagement
 모두가 몰입하는 강의를 위해 모든 전자기기(노트북, 타블릿, 핸드폰)는 책상위에 올려놓지 않기로 합시다.
 수업 중 전자기기를 사용하는 것이 끼치는 악영향은 이미 널리 알려져 있습니다([참고1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub),[참고2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)].
 본인의 주의를 산만하게 할 뿐만 아니라 주변 사람들이 수업에 집중하는데도 큰 방해가 됩니다.
