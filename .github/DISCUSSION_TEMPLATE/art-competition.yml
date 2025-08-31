@@ -2,7 +2,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ** Upload your picture and provide the following description. **
+        ** Upload your artwork and provide the following description. **
   - type: textarea
     id: art
     attributes:
@@ -13,35 +13,23 @@ body:
   - type: input
     id: name
     attributes:
-      label: Your Name
-      description: "Provide your Korean name as well (if you are a Korean)"
+      label: 이름 Your Name
+      description: "한국인은 한글로 써주세요. Provide your Korean name as well if you are a Korean"
     validations:
       required: true
   - type: input
     id: tool
     attributes:
-      label: Tool You Used
+      label: 사용한 도구 Tool You Used
       description: "E.g., Dall-E, Suno, etc"
-    validations:
-      required: true
-  - type: textarea
-    id: short
-    attributes:
-      label: Short Description
-      description: "The prompt you used to generate the art"
-      value: |
-        For me, [*the chosen concept*] means ... ".
     validations:
       required: true
   - type: textarea
     id: long
     attributes:
       label: Long Description (up to 3 sentences)
-      description: "Detailed description"
+      description: "작품의 상세 설명 Detailed description"
       value: |
-        1.
-        2.
-        3.
         ...
     validations:
       required: true
