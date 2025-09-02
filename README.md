@@ -22,6 +22,9 @@
 학생들은 강의와 숙제를 통해 프로그램 검증과 합성의 이론과 실제를 배울 것이다.
 그리고 나아가 논리와 직관을 모두 갖춘 진정한 종합 인공지능이 실현되는 미래를 함께 그리게 될 것이다.
 
+본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용하여 [소박하게 지식을 전달한다](https://prosys.kaist.ac.kr/easy-word/).
+
+
 > Can my desired program be generated automatically and proven to be correct?
 
 The main theme of this course is __"the relationship between specification and implementation"__ for safe and reliable software.
