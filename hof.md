@@ -1,5 +1,8 @@
 # CS424 Hall of Fame
 
+## 2025 Fall
+#### Essay 1: Undecidability (계산불가능성)
+
 ## 2024 Fall
 #### Essay 1: Undecidability (계산불가능성)
 - [Sungmin Moon (문성민)](essay/2024-Sungmin.pdf)
