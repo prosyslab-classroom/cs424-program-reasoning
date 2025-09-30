@@ -65,6 +65,8 @@ Send an email to the instructor for approval.
 모두가 각자 따로 모니터를 보기 보다는 함께 같은 곳을 보며 왁자지껄 난상토론하는 수업이 되길 바랍니다.
 필요한 자료는 이 저장소에 있으니 원한다면 미리 인쇄를 해서 오세요.
 
+자세한 이야기는 [기사](https://prosys.kaist.ac.kr/engagement/)를 참고하세요.
+
 For a lecture where everyone can stay fully engaged, let’s agree not to keep any electronic devices (laptops, tablets, phones) on the desk.
 The negative effects of using electronic devices during class are already well-documented ([Ref1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub), [Ref2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)).
 They not only distract you, but also seriously interfere with the ability of those around you to focus.
