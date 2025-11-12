@@ -1,9 +1,12 @@
 # CS424 Hall of Fame
 
 ## 2025 Fall
-#### Essay 1: Undecidability (계산불가능성)
+#### Essay 1: 계산불가능성 (Undecidability)
 
 - [Youngjun Song (송영준)](essay/2025-youngjun.pdf)
+
+#### Essay 2: 프로그래밍의 미래 (Future of Programming)
+
 
 ## 2024 Fall
 #### Essay 1: Undecidability (계산불가능성)
