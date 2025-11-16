@@ -6,7 +6,7 @@
 - [Youngjun Song (송영준)](essay/2025-youngjun.pdf)
 
 #### Essay 2: 프로그래밍의 미래 (Future of Programming)
-
+- [Seungwoo Han (한승우)](essay/2025-seungwoo.pdf)
 
 ## 2024 Fall
 #### Essay 1: Undecidability (계산불가능성)
