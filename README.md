@@ -142,7 +142,7 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 |13|[Representation-based Search](slides/lecture13.pdf)||<img src="icons/github-classroom.png" width="16" />HW6: SLIA Synthesizer|
 |14|[Constraint-based Search](slides/lecture14.pdf)|||
 |15|[Functional Synthesis](slides/lecture15.pdf)||<img src="icons/github-classroom.png" width="16" />HW7: CEGIS|
-|16|[Program Synthesis as AI](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)|<img src="icons/github-classroom.png" width="16" />HW8: AI-based Program Synthesis|
+|16|[Neuro-Symbolic AI](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)|<img src="icons/github-classroom.png" width="16" />HW8: AI-based Program Synthesis|
 |-|Final Exam|||
 
 ## 명예의 전당 Hall of Fame
@@ -195,7 +195,7 @@ A large part of the slides is based on the lecture notes of similar courses:
 - [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/), KAIST Melting Pot Seminar, 2022
 - [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), [생각에 관한 생각](https://product.kyobobook.co.kr/detail/S000000597589) (번역본)
 - [Safeguarding Mobile AI Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
-  
+
 #### 그 외 Etc
 - [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
 - [Recursion World](https://prosys.kaist.ac.kr/recursion)
