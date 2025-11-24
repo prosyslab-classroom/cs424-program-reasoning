@@ -9,6 +9,11 @@
 - [Seungwoo Han (한승우)](essay/2025-seungwoo.pdf)
 - [Hojune Lee (이호준)](essay/2025-Hojune.pdf)
 
+#### LIA Synthesizer Competition Top Scorer :trophy:
+1. Jungha Seo (서정하)
+2. Jaden Jorradol
+3. Elmoursi Ahmad
+
 ## 2024 Fall
 #### Essay 1: Undecidability (계산불가능성)
 - [Sungmin Moon (문성민)](essay/2024-Sungmin.pdf)
