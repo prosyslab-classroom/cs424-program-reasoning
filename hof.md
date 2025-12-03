@@ -14,6 +14,16 @@
 2. Jaden Jorradol
 3. Elmoursi Ahmad
 
+#### SLIA Synthesizer Competition Top Scorer :trophy:
+1. Yeongjun Song (송영준)
+2. Elmoursi Ahmad, Jiwon Kang (강지원)
+3. Jaeho Paik (백재호), TaeHyeon Kim (김태현)
+
+#### Art Competition
+|[![Equivalence Reduction](https://github.com/user-attachments/assets/cc4a6554-719b-47e3-b486-47bd81ab8029)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/542)[Equivalence Reduction](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/542) <br>by [jeinryu](https://github.com/jeinryu)|[![Proof](https://github.com/user-attachments/assets/94ed15c9-aad4-4bfd-9b61-c3f4b01c67eb)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/538)[Proof](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/538) :2nd_place_medal:<br>by [heejbin](https://github.com/heejbin)|[![Represenation-based Search](https://github.com/user-attachments/assets/5017e7c9-87e5-4b6e-a180-c06e99e080a0)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/539)[Represenation-based Search](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/539) :3rd_place_medal:<br>by [jangyoujin0917](https://github.com/jangyoujin0917)|[![soundness](https://github.com/user-attachments/assets/3e44f26a-dbed-48c9-a345-4336a30276a5)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/508)[soundness](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/508) <br>by [minigb](https://github.com/minigb)|[![incompleteness](https://github.com/user-attachments/assets/f35535af-22c1-421a-9e1a-265c13853541)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/502)[incompleteness](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/502) <br>by [joonny-kr](https://github.com/joonny-kr)|
+|:-:|:-:|:-:|:-:|:-:|
+|[![Variant](https://github.com/user-attachments/assets/d21fc6f5-2e00-46f7-9958-338645b2d66f)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/485)[Variant](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/485) :1st_place_medal:<br>by [6eps](https://github.com/6eps)|
+
 ## 2024 Fall
 #### Essay 1: Undecidability (계산불가능성)
 - [Sungmin Moon (문성민)](essay/2024-Sungmin.pdf)
