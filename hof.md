@@ -24,6 +24,8 @@
 |:-:|:-:|:-:|
 |[![soundness](https://github.com/user-attachments/assets/3e44f26a-dbed-48c9-a345-4336a30276a5)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/508)[soundness](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/508) <br>by [minigb](https://github.com/minigb)|[![incompleteness](https://github.com/user-attachments/assets/f35535af-22c1-421a-9e1a-265c13853541)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/502)[incompleteness](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/502) <br>by [joonny-kr](https://github.com/joonny-kr)|[![Equivalence Reduction](https://github.com/user-attachments/assets/cc4a6554-719b-47e3-b486-47bd81ab8029)](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/542)[Equivalence Reduction](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/542) <br>by [jeinryu](https://github.com/jeinryu)|
 
+See the [ceremony photos](https://photos.app.goo.gl/ir4iAuZJMmdvCNsm6)
+
 ## 2024 Fall
 #### Essay 1: Undecidability (계산불가능성)
 - [Sungmin Moon (문성민)](essay/2024-Sungmin.pdf)
