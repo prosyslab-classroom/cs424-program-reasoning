@@ -7,14 +7,14 @@ body:
     id: art
     attributes:
       label: Your work
-      description: "A description about your work"
+      description: "A description about your work."
     validations:
       required: true
   - type: input
     id: name
     attributes:
       label: 이름 Your Name
-      description: "한국인은 한글로 써주세요. Provide your Korean name as well if you are a Korean."
+      description: "한국인은 한국어로 써주세요. Provide your Korean name as well if you are a Korean."
     validations:
       required: true
   - type: input
