@@ -1,8 +1,8 @@
 # CS424: Program Reasoning [🇰🇷](README.md)[🇬🇧](README.en.md)
 
 ## Logistics
-- Instructor: Kihong Heo [🏠](https://kihongheo.kaist.ac.kr) [📧](kihong.heo@prosys.kaist.ac.kr)
-- TAs [📧](cs424.ta@prosys.kaist.ac.kr)
+- Instructor: Kihong Heo [🏠](https://kihongheo.kaist.ac.kr) [📧](mailto:kihong.heo@prosys.kaist.ac.kr)
+- TAs [📧](mailto:cs424.ta@prosys.kaist.ac.kr)
   - Sujin Jang [🏠](https://sujin0529.github.io)
   - Bongjun Jang [🏠](https://bongjunj.github.io)
 - Lecture time: Mon/Wed 09:00 - 10:15
