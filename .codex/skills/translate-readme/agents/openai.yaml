@@ -1,0 +1,7 @@
+interface:
+  display_name: "Translate README"
+  short_description: "Translate syllabus READMEs into English"
+  default_prompt: "Use $translate-readme to create or update README.ENG.md from README.md while preserving Markdown structure, links, tables, and inline HTML, and avoid unnecessary style edits."
+
+policy:
+  allow_implicit_invocation: true
