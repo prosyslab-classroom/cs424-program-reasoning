@@ -1,8 +1,8 @@
 # CS424: 프로그램 논증 [🇰🇷](README.md)[🇬🇧](README.en.md)
 
 ## 수업정보
-- 교수: 허기홍 [🏠](https://kihongheo.kaist.ac.kr) [📧](kihong.heo@prosys.kaist.ac.kr)
-- 조교 [📧](cs424.ta@prosys.kaist.ac.kr)
+- 교수: 허기홍 [🏠](https://kihongheo.kaist.ac.kr) [📧](mailto:kihong.heo@prosys.kaist.ac.kr)
+- 조교 [📧](mailto:cs424.ta@prosys.kaist.ac.kr)
   - 장수진 [🏠](https://sujin0529.github.io)
   - 장봉준 [🏠](https://bongjunj.github.io)
 - 강의 시간: 월/수 Mon/Wed 09:00 - 10:15
@@ -14,7 +14,7 @@
 ## 강의 소개 [<img src="icons/youtube.png" width="16" />](https://youtu.be/nlsO6Cl6ync?si=TVeigZImwT-x-OqJ)
 > 내가 원하는 프로그램을 자동으로 만들 수 있는가? 그리고 그 프로그램이 내가 원하는 것임을 자동으로 증명할 수 있는가?
 
-본 강의의 핵심 주제는 안전하고 믿을만한 소프트웨어를 만들기 위한 "명세와 구현 사이의 관계"이다.
+본 강의의 핵심 주제는 안전하고 믿을 만한 소프트웨어를 만들기 위한 "명세와 구현 사이의 관계"이다.
 크게 아래와 같은 두 가지 세부 주제를 다룬다:
 1. **프로그램 검증(program verification)**: 주어진 구현이 해당 명세를 만족하는지 어떻게 _자동으로 증명할_ 것인가?
 2. **프로그램 합성(program synthesis)**: 주어진 명세를 만족하는 구현을 어떻게 _자동으로 만들어낼_ 것인가?
@@ -46,11 +46,11 @@
 - [The Calculus of Computation](https://www.amazon.com/Calculus-Computation-Procedures-Applications-Verification/dp/3540741127) (COC)
 
 ## 몰입을 위한 약속
-모두가 몰입하는 강의를 위해 모든 전자기기(노트북, 태블릿, 핸드폰)는 책상위에 올려놓지 않기로 합시다.
+모두가 몰입하는 강의를 위해 모든 전자기기(노트북, 태블릿, 핸드폰)는 책상 위에 올려놓지 않기로 합시다.
 수업 중 전자기기를 사용하는 것이 끼치는 악영향은 이미 널리 알려져 있습니다([1](https://www.sciencedirect.com/science/article/pii/S0360131512002254?via%3Dihub),[2](https://www.nytimes.com/2025/08/21/opinion/mobile-phones-college-classrooms.html)).
-본인의 주의를 산만하게 할 뿐만 아니라 주변 사람들이 수업에 집중하는데도 큰 방해가 됩니다.
+본인의 주의를 산만하게 할 뿐만 아니라 주변 사람들이 수업에 집중하는 데도 큰 방해가 됩니다.
 모두가 각자 따로 모니터를 보기 보다는 함께 같은 곳을 보며 왁자지껄 난상토론하는 수업이 되길 바랍니다.
-필요한 자료는 이 저장소에 있으니 원한다면 미리 인쇄를 해서 오세요.
+필요한 자료는 이 저장소에 있으니 원한다면 미리 인쇄해서 오세요.
 
 자세한 이야기는 [기사](https://prosys.kaist.ac.kr/engagement/)를 참고하세요.
 
@@ -59,13 +59,13 @@
 특히 [여기](TOOL.md)에 있는 몇 가지 도구를 사용할 예정입니다.
 
 프로그램 검증기 채점을 위한 프로그램은 [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)를 이용하여 자동으로 생성됩니다.
-BugSynth는 LLM과 프로그램 검증 기술을 활용하여 자연스럽고 믿을만한 채점용 오류 프로그램을 생성하는 도구입니다.
+BugSynth는 LLM과 프로그램 검증 기술을 활용하여 자연스럽고 믿을 만한 채점용 오류 프로그램을 생성하는 도구입니다.
 
-모든 숙제 제출은 Github와 Gradescope 를 통해서 이루어집니다.
+모든 숙제 제출은 Github와 Gradescope를 통해서 이루어집니다.
 매 숙제마다 제출을 위한 GitHub Classroom 초대 URL이 [게시판](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions)에 공지됩니다.
-초대를 수락하면, 여러분의 숙제를 위한 비공개 개인 저장소가 만들어 질 것입니다.
+초대를 수락하면, 여러분의 숙제를 위한 비공개 개인 저장소가 만들어질 것입니다.
 여러분은 제출 기한 이전에 원하는 만큼 해당 저장소에 제출할 수 있고,
-이 저장소를 Gradescope에 제출하여 채점결과를 확인할 수 있습니다.
+이 저장소를 Gradescope에 제출하여 채점 결과를 확인할 수 있습니다.
 
 기한을 넘겨서 제출할 시 아래와 같은 규정에 따라 채점합니다:
 - 하루 늦을 시 점수의 80%
