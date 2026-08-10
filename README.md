@@ -12,7 +12,11 @@
 - 강의실: N1 102
 
 ## 강의 소개 [<img src="icons/youtube.png" width="16" />](https://youtu.be/nlsO6Cl6ync?si=TVeigZImwT-x-OqJ)
-> 내가 원하는 프로그램을 자동으로 만들 수 있는가? 그리고 그 프로그램이 내가 원하는 것임을 자동으로 증명할 수 있는가?
+> 내가 원하는 프로그램을 자동으로 만들 수 있을까? 그리고 그 프로그램이 내가 원하는 것임을 자동으로 증명할 수 있을까?
+
+위 질문에 대한 답인 "자동 프로그래밍"은 전산학 분야의 오랜 꿈이었다.
+최근 등장한 인공지능 기반 자동 프로그래밍 기술은 이 꿈을 한 층 더 현실에 가깝게 만들고 있다.
+하지만 아직 갈길이 멀다. 천방지축으로 만들어진 프로그램, 고삐를 채울 방법은 무엇일까?
 
 본 강의의 핵심 주제는 안전하고 믿을 만한 소프트웨어를 만들기 위한 "명세와 구현 사이의 관계"이다.
 크게 아래와 같은 두 가지 세부 주제를 다룬다:
@@ -20,7 +24,10 @@
 2. **프로그램 합성(program synthesis)**: 주어진 명세를 만족하는 구현을 어떻게 _자동으로 만들어낼_ 것인가?
 
 학생들은 강의와 숙제를 통해 프로그램 검증과 합성의 이론과 실제를 배울 것이다.
-그리고 나아가 논리와 직관을 모두 갖춘 진정한 종합 인공지능이 실현되는 미래를 함께 그리게 될 것이다.
+이를 바탕으로, 세 가지 미래를 함께 그려보게 될 것이다:
+1. **자동 프로그래밍(Automated programming)**: 프로그래밍은 어디까지 자동화 될까?
+2. **검증 중심 프로그래밍(Verification-aware programming)**: 누가 짜더라도 믿고 쓸 수 있는 소프트웨어는 어떻게 만들 수 있을까?
+3. **논리-직관 융합 AI(neurosymbolic AI)**: 프로그램 검증과 합성 기술로 논리와 직관을 모두 갖춘 인공지능을 만들 수 있을까?
 
 본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용하여 [소박하게 지식을 전달한다](https://prosys.kaist.ac.kr/easy-word/).
 
@@ -157,6 +164,7 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 - [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/), KAIST Melting Pot Seminar, 2022
 - [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), [생각에 관한 생각](https://product.kyobobook.co.kr/detail/S000000597589) (번역본)
 - [Safeguarding Mobile AI Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
+- [Natural vs Formal Language](https://prosys.kaist.ac.kr/natural-language/)
 
 #### 그 외
 - [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
