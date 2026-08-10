@@ -14,13 +14,20 @@
 ## Course Description [<img src="icons/youtube.png" width="16" />](https://youtu.be/nlsO6Cl6ync?si=TVeigZImwT-x-OqJ)
 > Can we automatically create the program I want? And can we automatically prove that the program is what I want?
 
-The core theme of this course is the "relationship between specification and implementation" for building safe and trustworthy software.
-Broadly speaking, we cover the following two subtopics:
+"Automated programming," the answer to the questions above, has been a long-standing dream of computer science.
+Recent AI-based automated programming technologies are bringing this dream closer to reality.
+But there is still a long way to go. How can we rein in programs created recklessly?
+
+The central topic of this course is the "relationship between specification and implementation" for building safe and trustworthy software.
+We cover two main subtopics:
 1. **program verification**: how can we _automatically prove_ that a given implementation satisfies the specification?
 2. **program synthesis**: how can we _automatically generate_ an implementation that satisfies the specification?
 
 Students will learn the theory and practice of program verification and synthesis through lectures and homework.
-And beyond that, we will together envision a future in which true artificial general intelligence, equipped with both logic and intuition, is realized.
+Based on this, we will envision three possible futures together:
+1. **Automated programming**: How far can programming be automated?
+2. **Verification-aware programming**: How can we create software that can be trusted and used regardless of who wrote it?
+3. **neurosymbolic AI**: Can we build artificial intelligence equipped with both logic and intuition using program verification and synthesis technologies?
 
 ## Grading
 #### Weighting
@@ -153,6 +160,7 @@ The course materials were prepared with reference to the materials from the cour
 - [Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/), KAIST Melting Pot Seminar, 2022
 - [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), [Thinking, Fast and Slow](https://product.kyobobook.co.kr/detail/S000000597589) (translated edition)
 - [Safeguarding Mobile AI Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
+- [Natural vs Formal Language](https://prosys.kaist.ac.kr/natural-language/)
 
 #### Miscellaneous
 - [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
