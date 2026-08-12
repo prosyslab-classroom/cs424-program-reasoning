@@ -9,7 +9,7 @@
 - Office hours (by appointment):
   - Instructor: Mon 10:15 - 11:00
   - TAs: Mon 10:15 - 11:00
-- Location: N1 102
+- Location: N1 201
 
 ## Course Description [<img src="icons/youtube.png" width="16" />](https://youtu.be/nlsO6Cl6ync?si=TVeigZImwT-x-OqJ)
 > Can we automatically create the program I want? And can we automatically prove that the program is what I want?
