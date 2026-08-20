@@ -5,11 +5,11 @@
 - 조교 [📧](mailto:cs424.ta@prosys.kaist.ac.kr)
   - 장수진 [🏠](https://sujin0529.github.io)
   - 장봉준 [🏠](https://bongjunj.github.io)
-- 강의 시간: 월/수 Mon/Wed 09:00 - 10:15
+- 강의 시간: 월/수 09:00 - 10:15
 - 강의실: N1 102
 - 면담 시간(사전 약속 필요):
-  - 교수: Mon 10:15 - 11:00
-  - 조교: Mon 10:15 - 11:00
+  - 교수: 월 10:15 - 11:00
+  - 조교: 월 10:15 - 11:00
 
 ## 강의 소개 [<img src="icons/youtube.png" width="16" />](https://youtu.be/nlsO6Cl6ync?si=TVeigZImwT-x-OqJ)
 > 내가 원하는 프로그램을 자동으로 만들 수 있을까? 그리고 그 프로그램이 내가 원하는 것임을 자동으로 증명할 수 있을까?
