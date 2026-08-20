@@ -77,6 +77,10 @@ Late submissions are graded according to the following policy:
 - 50% of the score if two days late
 - 0% if three days or more late
 
+All programming assignments follow the philosophy of value-oriented programming [[1](http://kwangkeunyi.snu.ac.kr/~kwang/paper/maso/1.html),[2](https://csrc.kaist.ac.kr/blog/2020/08/12/바이너리-분석에-웬-fsharp/)] and the fundamental principles of software development.
+Through this, you will experience both the joy of programming and the qualities of an advanced developer.
+See [here](REQUIREMENTS.md) for details.
+
 ## Academic Integrity
 Students who violate academic integrity will receive an F. See the [KAIST School of Computing honor code](https://cs.kaist.ac.kr/content?menu=309).
 

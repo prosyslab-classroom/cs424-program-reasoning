@@ -81,6 +81,7 @@ BugSynth는 LLM과 프로그램 검증 기술을 활용하여 자연스럽고 �
 
 모든 프로그래밍 과제는 값 중심 프로그래밍 [[1](http://kwangkeunyi.snu.ac.kr/~kwang/paper/maso/1.html),[2](https://csrc.kaist.ac.kr/blog/2020/08/12/바이너리-분석에-웬-fsharp/)]의 철학과 소프트웨어 개발의 기본 원칙을 따릅니다.
 이를 통해 프로그래밍의 즐거움과 고급 개발자의 소양을 함께 느끼게 됩니다.
+자세한 사항은 [여기](REQUIREMENTS.md)를 참고하세요.
 
 ## 학문 윤리
 학문 윤리를 어긴 수강생은 F를 받습니다. 자세한 사항은 [KAIST 전산학부 명예규정](https://cs.kaist.ac.kr/content?menu=309)을 참고하십시오.
