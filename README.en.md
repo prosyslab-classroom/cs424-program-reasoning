@@ -8,7 +8,7 @@
 - Lecture time: Mon/Wed 09:00 - 10:15
 - Office hours (by appointment):
   - Instructor: Mon 10:15 - 11:00
-  - TAs: Mon 10:15 - 11:00
+  - TAs: Tue 15:00 - 16:00
 - Location: N1 201
 
 ## Course Description [<img src="icons/youtube.png" width="16" />](https://youtu.be/nlsO6Cl6ync?si=TVeigZImwT-x-OqJ)
