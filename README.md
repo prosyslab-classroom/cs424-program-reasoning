@@ -169,6 +169,7 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 - [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), [생각에 관한 생각](https://product.kyobobook.co.kr/detail/S000000597589) (번역본)
 - [Safeguarding Mobile AI Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
 - [Natural vs Formal Language](https://prosys.kaist.ac.kr/natural-language/)
+- [Verification-aware AI Agent](https://kihongheo.kaist.ac.kr/slides/agent26.pdf)
 
 #### 그 외
 - [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
