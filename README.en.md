@@ -165,6 +165,7 @@ The course materials were prepared with reference to the materials from the cour
 - [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), [Thinking, Fast and Slow](https://product.kyobobook.co.kr/detail/S000000597589) (translated edition)
 - [Safeguarding Mobile AI Agent](https://github.com/prosyslab/pl-wiki/wiki/VeriSafe-Agent)
 - [Natural vs Formal Language](https://prosys.kaist.ac.kr/natural-language/)
+- [Verification-aware AI Agent](https://kihongheo.kaist.ac.kr/slides/agent26.pdf)
 
 #### Miscellaneous
 - [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
