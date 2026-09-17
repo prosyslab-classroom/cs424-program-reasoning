@@ -3,6 +3,8 @@
 ## 2026 Fall
 #### Essay 1: 계산불가능성 (Undecidability)
 
+- [신뢰의 도약, 얼마나 멀리? - 이승욱](essay/2026-seunguk.pdf)
+
 ## 2025 Fall
 #### Essay 1: 계산불가능성 (Undecidability)
 
