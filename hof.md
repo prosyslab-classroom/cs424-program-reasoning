@@ -2,6 +2,7 @@
 
 ## 2026 Fall
 #### Essay 1: 계산불가능성 (Undecidability)
+- [Juyoung Seo(서주영)](essay/2026-juyoung-undecidability.pdf)
 
 ## 2025 Fall
 #### Essay 1: 계산불가능성 (Undecidability)
