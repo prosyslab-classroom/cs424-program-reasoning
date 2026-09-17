@@ -1,5 +1,8 @@
 # CS424 Hall of Fame
 
+## 2026 Fall
+#### Essay 1: 계산불가능성 (Undecidability)
+
 ## 2025 Fall
 #### Essay 1: 계산불가능성 (Undecidability)
 
