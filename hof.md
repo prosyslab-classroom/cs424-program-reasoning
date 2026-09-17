@@ -4,6 +4,8 @@
 #### Essay 1: 계산불가능성 (Undecidability)
 - [풀 수 없음을 안다는 것 - 서주영](essay/2026-juyoung-undecidability.pdf)
 
+- [신뢰의 도약, 얼마나 멀리? - 이승욱](essay/2026-seunguk.pdf)
+
 ## 2025 Fall
 #### Essay 1: 계산불가능성 (Undecidability)
 
