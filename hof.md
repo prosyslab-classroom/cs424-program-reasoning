@@ -6,6 +6,8 @@
 
 - [신뢰의 도약, 얼마나 멀리? - 이승욱](essay/2026-seunguk.pdf)
 
+- [모든 질문에 답하는 마지막 모델은 없다 - 유재우](essay/2026-jaewoo.pdf)
+
 ## 2025 Fall
 #### Essay 1: 계산불가능성 (Undecidability)
 
