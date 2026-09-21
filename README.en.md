@@ -34,7 +34,7 @@ Based on this, we will envision three possible futures together:
 - Homework: 30%
 - Final Exam: 50%
 - Participation: 20%
-  - This is a reward for students who actively participate and [spontaneously express what they learned in diverse ways](hof.md).
+  - This is a reward for students who actively participate and [spontaneously express what they learned in diverse ways](HOF.md).
   - I hope to see you every class. [Attendance is not quantitatively assessed](https://prosys.kaist.ac.kr/attendance/) because it is not worth quantifying.
 
 #### Evaluation Criteria
@@ -119,7 +119,7 @@ Please do not easily give up your valuable learning opportunities.
 |-|Final Exam|||
 
 ## Hall of Fame
-Enjoy the wonderful works left behind by students from last semester [here](hof.md) (essays, drawings, etc.).
+Enjoy the wonderful works left behind by students from last semester [here](HOF.md) (essays, drawings, etc.).
 
 ## Related Courses
 - [CS402: Introduction to Logic for Computer Science](https://github.com/hongseok-yang/logic23), KAIST
