@@ -138,6 +138,7 @@ The course materials were prepared with reference to the materials from the cour
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
 - [Gödel, Escher, Bach](https://www.aladin.co.kr/m/mproduct.aspx?ItemId=113285054)
 - [Imagine the Impossible](https://www.youtube.com/watch?v=nJiw4g2ZM1E)
+- [Mathematics in the Age of AI](https://arxiv.org/pdf/2608.16753), Terence Tao, 2026
 
 #### Program Verification
 - [Formal Software Verification Measures Up](https://dl.acm.org/doi/10.1145/3464933), CACM 2021
