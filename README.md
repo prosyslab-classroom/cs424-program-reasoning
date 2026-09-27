@@ -141,7 +141,8 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
 - [괴델, 에셔, 바흐 (Gödel, Escher, Bach)](https://www.aladin.co.kr/m/mproduct.aspx?ItemId=113285054)
 - [불가능에 대하여 (Imagine the Impossible)](https://www.youtube.com/watch?v=nJiw4g2ZM1E)
-
+- [Mathematics in the Age of AI](https://arxiv.org/pdf/2608.16753), Terence Tao, 2026
+  
 #### 프로그램 검증
 - [Formal Software Verification Measures Up](https://dl.acm.org/doi/10.1145/3464933), CACM 2021
 - [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
