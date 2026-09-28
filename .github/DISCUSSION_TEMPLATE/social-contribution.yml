@@ -9,8 +9,8 @@ body:
   - type: input
     id: artifact
     attributes:
-      label: Your work
-      description: "The link to your contribution."
+      label: 작업물 Your work
+      description: "작업물의 링크. Link to your contribution."
     validations:
       required: true
   - type: textarea
