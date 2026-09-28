@@ -109,11 +109,11 @@ Please do not easily give up your valuable learning opportunities.
 |7|[Hoare Logic](slides/lecture7.pdf)|COC Ch5, [CACM'21](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|<img src="icons/github-classroom.png" width="16" />HW3: Mini-Dafny|
 |8|[Separation Logic](slides/lecture8.pdf)||
 |9|[Automated Program Verification](slides/lecture9.pdf)||<img src="icons/github-classroom.png" width="16" />HW4: SmaLLVM Verifier|
-|10|[Overview of Program Synthesis](slides/lecture9.pdf)|PS Ch1-2, IPS Lec1, [Wired](https://www.wired.com/story/ai-write-code-like-humans-bugs/), [IEEE Spectrum](https://spectrum.ieee.org/ai-code-generation-language-models), [CACM](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext)||
+|10|[Overview of Program Synthesis](slides/lecture10.pdf)|PS Ch1-2, IPS Lec1, [Wired](https://www.wired.com/story/ai-write-code-like-humans-bugs/), [IEEE Spectrum](https://spectrum.ieee.org/ai-code-generation-language-models), [CACM](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext)||
 |11|[Inductive Synthesis and Enumerative Search](slides/lecture10.pdf)|PS Ch4.1, IPS Lec2-4|<img src="icons/github-classroom.png" width="16" />HW5: Search-based Synthesizer|
-|12|[Search Space Pruning](slides/lecture11.pdf)|||
-|13|[Search Space Prioritization](slides/lecture12.pdf)|[CACM'18](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)||
-|14|[Representation-based Search](slides/lecture13.pdf)|||
+|12|[Search Space Pruning](slides/lecture12.pdf)|||
+|13|[Search Space Prioritization](slides/lecture13.pdf)|[CACM'18](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)||
+|14|[Representation-based Search](slides/lecture14.pdf)|||
 |15|[Functional Synthesis](slides/lecture15.pdf)||<img src="icons/github-classroom.png" width="16" />HW6: CEGIS|
 |16|[Neuro-Symbolic AI 1: Constrained Decoding](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)|<img src="icons/github-classroom.png" width="16" />HW7: Constrained Decoding|
 |17|[Neuro-Symbolic AI 2: Agentic Program Synthesis](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)|<img src="icons/github-classroom.png" width="16" />HW8: Agentic Program Synthesizer|

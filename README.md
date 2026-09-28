@@ -112,11 +112,11 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 |7|[Hoare Logic](slides/lecture7.pdf)|COC Ch5, [CACM'21](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|<img src="icons/github-classroom.png" width="16" />HW3: Mini-Dafny|
 |8|[Separation Logic](slides/lecture8.pdf)||
 |9|[Automated Program Verification](slides/lecture9.pdf)||<img src="icons/github-classroom.png" width="16" />HW4: SmaLLVM Verifier|
-|10|[Overview of Program Synthesis](slides/lecture9.pdf)|PS Ch1-2, IPS Lec1, [Wired](https://www.wired.com/story/ai-write-code-like-humans-bugs/), [IEEE Spectrum](https://spectrum.ieee.org/ai-code-generation-language-models), [CACM](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext)||
-|11|[Inductive Synthesis and Enumerative Search](slides/lecture10.pdf)|PS Ch4.1, IPS Lec2-4|<img src="icons/github-classroom.png" width="16" />HW5: Search-based Synthesizer|
-|12|[Search Space Pruning](slides/lecture11.pdf)|||
-|13|[Search Space Prioritization](slides/lecture12.pdf)|[CACM'18](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)||
-|14|[Representation-based Search](slides/lecture13.pdf)|||
+|10|[Overview of Program Synthesis](slides/lecture10.pdf)|PS Ch1-2, IPS Lec1, [Wired](https://www.wired.com/story/ai-write-code-like-humans-bugs/), [IEEE Spectrum](https://spectrum.ieee.org/ai-code-generation-language-models), [CACM](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext)||
+|11|[Inductive Synthesis and Enumerative Search](slides/lecture11.pdf)|PS Ch4.1, IPS Lec2-4|<img src="icons/github-classroom.png" width="16" />HW5: Search-based Synthesizer|
+|12|[Search Space Pruning](slides/lecture12.pdf)|||
+|13|[Search Space Prioritization](slides/lecture13.pdf)|[CACM'18](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)||
+|14|[Representation-based Search](slides/lecture14.pdf)|||
 |15|[Functional Synthesis](slides/lecture15.pdf)||<img src="icons/github-classroom.png" width="16" />HW6: CEGIS|
 |16|[Neuro-Symbolic AI 1: Constrained Decoding](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)|<img src="icons/github-classroom.png" width="16" />HW7: Constrained Decoding|
 |17|[Neuro-Symbolic AI 2: Agentic Program Synthesis](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)|<img src="icons/github-classroom.png" width="16" />HW8: Agentic Program Synthesizer|
@@ -143,7 +143,7 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 - [괴델, 에셔, 바흐 (Gödel, Escher, Bach)](https://www.aladin.co.kr/m/mproduct.aspx?ItemId=113285054)
 - [불가능에 대하여 (Imagine the Impossible)](https://www.youtube.com/watch?v=nJiw4g2ZM1E)
 - [Mathematics in the Age of AI](https://arxiv.org/pdf/2608.16753), Terence Tao, 2026
-  
+
 #### 프로그램 검증
 - [Formal Software Verification Measures Up](https://dl.acm.org/doi/10.1145/3464933), CACM 2021
 - [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
