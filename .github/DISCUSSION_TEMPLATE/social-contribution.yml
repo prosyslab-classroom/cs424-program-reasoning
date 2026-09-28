@@ -1,0 +1,24 @@
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 이름 Your Name
+      description: "한국인은 한국어로 써주세요. Provide your Korean name as well if you are a Korean."
+    validations:
+      required: true
+  - type: input
+    id: artifact
+    attributes:
+      label: Your work
+      description: "The link to your contribution."
+    validations:
+      required: true
+  - type: textarea
+    id: long
+    attributes:
+      label: Detailed Description
+      description: "작업의 상세 설명. 한국인은 한국어로 쓰고 영문 번역을 첨부해주세요. Detailed description"
+      value: |
+        ...
+    validations:
+      required: true
