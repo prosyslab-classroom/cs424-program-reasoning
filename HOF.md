@@ -10,6 +10,9 @@
 
 - [모든 질문에 답하는 마지막 모델은 없다 - 유재우](essay/2026-jaewoo.pdf)
 
+#### Essay 2: Security@KAIST 2026 참가 후기
+- [아무도 적지 않은 명세 - 김민성](essay/2026-minsung-security.pdf)
+
 ## 2025 Fall
 #### Essay 1: 계산불가능성 (Undecidability)
 
