@@ -1,6 +1,9 @@
 # CS424 Hall of Fame
 
 ## 2026 Fall
+#### Social Contribution
+- [불변개구리 Invariant Frog - 서동휘](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/604)
+
 #### Essay 1: 계산불가능성 (Undecidability)
 - [풀 수 없음을 안다는 것 - 서주영](essay/2026-juyoung-undecidability.pdf)
 
@@ -22,7 +25,7 @@
 - [Seungwoo Han (한승우)](essay/2025-seungwoo.pdf)
 - [Hojune Lee (이호준)](essay/2025-Hojune.pdf)
 
-#### LIA Synthesizer Competition Top Scorer :trophy:
+#### LIA Synthesizer Competition Top Scorers :trophy:
 1. Jungha Seo (서정하)
 2. Jaden Jorradol
 3. Elmoursi Ahmad
