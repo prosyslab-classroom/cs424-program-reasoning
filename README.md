@@ -163,7 +163,9 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 - [Coding Made AI—Now, How Will AI Unmake Coding?](https://spectrum.ieee.org/ai-code-generation-language-models), IEEE Spectrum 2022
 - [Autocorrect Errors in Excel](https://www.nature.com/articles/d41586-021-02211-4), Nature 2021
 - [Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions](https://cacm.acm.org/research-highlights/asleep-at-the-keyboard-assessing-the-security-of-github-copilots-code-contributions/), CACM 2025
-
+- [Artificial Intelligence for Software Engineering: From Probable to Provable](https://cacm.acm.org/opinion/artificial-intelligence-for-software-engineering-from-probable-to-provable/)
+- [The End of the Coder](https://cacm.acm.org/news/the-end-of-the-coder/)
+- [Expecto](https://github.com/prosyslab/pl-wiki/wiki/Expecto)
 
 #### 논리와 직관을 모두 갖춘 종합 인공지능
 - [Neurosymbolic AI](https://cacm.acm.org/magazines/2022/10/264844-neurosymbolic-ai/fulltext), CACM 2022
