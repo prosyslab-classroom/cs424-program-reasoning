@@ -117,9 +117,9 @@ AI 모델 종류와 상관없이 [비슷한 질문에는 비슷하게 평범한 
 |12|[Search Space Pruning](slides/lecture12.pdf)|||
 |13|[Search Space Prioritization](slides/lecture13.pdf)|[CACM'18](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)||
 |14|[Representation-based Search](slides/lecture14.pdf)|||
-|15|[Functional Synthesis](slides/lecture15.pdf)||<img src="icons/github-classroom.png" width="16" />HW6: CEGIS|
-|16|[Neuro-Symbolic AI 1: Constrained Decoding](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)|<img src="icons/github-classroom.png" width="16" />HW7: Constrained Decoding|
-|17|[Neuro-Symbolic AI 2: Agentic Program Synthesis](slides/lecture16.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)|<img src="icons/github-classroom.png" width="16" />HW8: Agentic Program Synthesizer|
+|15|[Constraint-based Search](slides/lecture15.pdf)|||
+|16|[Functional Synthesis](slides/lecture16.pdf)||<img src="icons/github-classroom.png" width="16" />HW6: CEGIS|
+|17|[Neuro-Symbolic AI](slides/lecture17.pdf)|[Trustworthy AI](https://prosys.kaist.ac.kr/trustworthy/)|<img src="icons/github-classroom.png" width="16" />HW7: Constrained Decoding|
 |-|Final Exam|||
 
 ## 명예의 전당
