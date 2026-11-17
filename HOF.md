@@ -3,6 +3,9 @@
 ## 2026 Fall
 #### Social Contribution
 - [불변개구리 Invariant Frog - 서동휘](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/604)
+- [데인저 클로즈 Danger Close - 하승현](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/605)
+- [구면인가 초면인가 Exists or New - 전지호](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/614)
+- [끝날까? Halt? - 김민성](https://github.com/prosyslab-classroom/cs424-program-reasoning/discussions/616)
 
 #### Essay 1: 계산불가능성 (Undecidability)
 - [풀 수 없음을 안다는 것 - 서주영](essay/2026-juyoung-undecidability.pdf)
