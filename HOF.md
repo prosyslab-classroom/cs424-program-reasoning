@@ -19,6 +19,9 @@
 #### Essay 2: Security@KAIST 2026 참가 후기
 - [아무도 적지 않은 명세 - 김민성](essay/2026-minsung-security.pdf)
 
+#### Essay 3: 프로그래밍의 미래 (Future of Programming)
+- [사진 이후의 회화, 모델 이후의 프로그래밍 - 오현우](essay/2026-hyunwoo-future-of-programming.pdf)
+
 ## 2025 Fall
 #### Essay 1: 계산불가능성 (Undecidability)
 
