@@ -24,6 +24,8 @@
 
 - [코드를 쉽게 만들어도 관리할 일은 남는다 - 전지호](essay/2026-jiho-future-of-programming.pdf)
 
+- [AI 에이전트의 미래: 메타 앱](essay/2026-woohyun-future-of-programming.pdf)
+
 ## 2025 Fall
 #### Essay 1: 계산불가능성 (Undecidability)
 
